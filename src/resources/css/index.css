@@ -1,0 +1,364 @@
+@font-face {
+    font-family: 'Alegreya Sans';
+    src: url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Black.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-BlackItalic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Bold.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-BoldItalic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-ExtraBold.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-ExtraBoldItalic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Italic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Light.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-LightItalic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Medium.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-MediumItalic.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Regular.ttf),
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-Thin.ttf)
+            url(../../assets/fonts/Alegreya_Sans/AlegreyaSans-ThinItalic.ttf)
+            ;
+}
+
+@font-face {
+    font-family: 'BioRhyme';
+    src: url(../../assets/fonts/BioRhyme/BioRhyme-VariableFont_wdth\,wght.ttf);
+}
+
+@font-face {
+    font-family: 'Cormorant';
+    src: url(../../assets/fonts/Cormorant/Cormorant-VariableFont_wght.ttf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    color: #000;
+    font-family: "BioRhyme", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+:root {
+    --color-primary: #025492;
+    --color-secondary: #1b7895;
+    --color-tertiary: #eeddd3;
+    --color-quaternary: #000;
+    --color-icon-default: #6c757d;
+    --color-border: #ced4da;
+
+    --color-white: #fff;
+    --color-dark-text: #f8f9fa;
+    --color-light-text: #495057;
+    --color-default: #0d6efd;
+    --color-danger: #dc3545;
+    --color-success: #198754;
+    --color-warning:  #ffc107;
+    --color-info:    #0dcaf0;
+
+    --color-indigo:  #6610f2;
+    --color-purple:  #6f42c1;
+    --color-pink:    #d63384;
+    --color-orange:  #fd7e14;
+    --color-teal:    #20c997;
+
+    --input-border-radius: 3px;
+}
+
+html {
+    font-size: 90.5%;
+    overflow-x: hidden;
+    background-color: #eeddd3;
+    user-select: none;
+}
+
+section {
+    margin: 4rem 0;
+    border-bottom: 1px solid var(--color-secondary);
+}
+
+section .head,
+section .paragraf {
+    margin-bottom: 1rem;
+}
+
+section .head {
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--color-secondary);
+}
+
+section .paragraf {
+}
+
+p {
+    text-indent: 50px;
+    line-height: 1.8;
+    word-spacing: 10px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+/* ------------------------------------------- header ------------------------------------------ */
+
+header {
+    /* height: 10vh; */
+
+    /* border: 1px solid red; */
+
+}
+
+#menu {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    padding: 1rem;
+
+    width: 120rem;
+    margin: 0 auto;
+}
+
+#logo {
+    margin-left: 1rem;
+    margin-right: 5rem;
+}
+
+#logo img {
+    height: 25rem;
+    margin: 0 auto;
+    border-radius: 3px;
+    background-color: #fff;
+    text-align: center;
+    align-content: center;
+}
+
+.separator {
+    width: 100%;
+    margin: 3rem 0 1.5rem 0;
+    border-bottom: .2rem solid var(--color-border);
+}
+
+#menu nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+#menu nav ul li {
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+#menu nav ul li a {
+    position: relative;
+    color: var(--color-secondary);
+    font-size: 2rem;
+    font-weight: 400;
+    text-decoration: none;
+    transition: 300ms;
+}
+
+#menu a:after {
+    content: "";
+    width: 100%;
+    border-bottom: 1px solid #333;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 300ms ease;
+}
+
+#menu a:hover:after {
+    opacity: 1;
+}
+/* ------------------------------------------- container --------------------------------------- */
+.container {
+    width: 120rem;
+    height: auto;
+    margin: 0 auto;
+    /* border: 1px solid green; */
+}
+
+/* ------------------------------------------- list -------------------------------------------- */
+.list {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+ 
+    justify-content: center;
+
+    /* border: 1px solid green; */
+}
+
+/* ------------------------------------------- card cardoverlay -------------------------------- */
+
+.card,
+.cardoverlay {
+    flex-basis: 48%;
+    text-align: center;
+    border-radius: 70px;
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+.cardoverlay {
+    position: relative;
+}
+
+.card img,
+.cardoverlay img {
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+.card img {
+    height: 25rem;
+    width: 20rem;
+}
+
+.cardoverlay img {
+    width: 100%;
+}
+
+.cardoverlay:hover .overlay {
+    opacity: 1;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    border-radius: 7px;
+    cursor: pointer;
+    background: linear-gradient(rgba(0,0,0,.5), var(--color-primary));
+    opacity: 0;
+    transition: 1s;
+}
+
+.content .description .desc.show {
+    display: inline-block;
+}
+
+.content .description .desc {
+    display: none;
+    font-weight: 300;
+    transition: 1s ease-in all;
+}
+
+.content .description .desc h3 {
+    position: relative;
+    font-weight: bold;
+}
+
+.content .description .desc h3 i {
+    cursor: pointer;
+    position: absolute;
+
+    color: var(--color-secondary);
+    top: -5%;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+
+.content .description .desc p {
+    /* font-size: 1.8rem; */
+    text-align: start;
+    min-height: 22rem;
+}
+
+.cardoverlay .desc h3,
+.cardoverlay .desc p {
+    color: var(--color-white);
+}
+
+.cardoverlay .desc h3 {
+    font-size: 2.5rem !important;
+    font-weight: 900;
+}
+
+.cardoverlay .desc p {
+    font-size: 2rem !important;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.cardoverlay .desc {
+    width: 80%;
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    opacity: 0;
+    transform: translateX(-50%);
+    transition: 1s;
+}
+
+.cardoverlay:hover .desc {
+    bottom: 40%;
+    opacity: 1;
+}
+
+.cardoverlay hr {
+    background: #fff;
+    height: 2px;
+    border: 0;
+    margin: 15px auto;
+    width: 60%;
+}
+
+
+/* ------------------------------------------- otherbibles ---------------------------------------- */
+
+/* ------------------------------------------- error ---------------------------------------------- */
+#error {
+    border: 1px solid var(--color-danger);
+    color: var(--color-danger);
+    padding: 3rem;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* ------------------------------------------- footer --------------------------------------------- */
+
+footer {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    height: auto;
+    align-content: center;
+    font-size: 1.3rem;
+    padding: 1rem;
+    padding-top: 3rem;
+}
+
+footer .copyright {
+    align-content: center;
+}
+
+footer .compliance {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+footer .compliant:hover,
+footer .legal:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

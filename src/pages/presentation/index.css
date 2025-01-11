@@ -1,0 +1,153 @@
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 1rem 0;
+    padding: 0;
+    align-items: end;
+}
+
+.breadcrumb .breadcrumb-item a {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.breadcrumb .breadcrumb-item:not(:last-child) a {
+    color: var(--color-secondary);
+}
+  
+.breadcrumb .breadcrumb-item:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 0.25rem;
+    content: "/";
+}
+
+.bible-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.bible-box .info {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    gap: 1rem;
+}
+
+.bible-box .info .image {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    background-color: #a59aa563;
+    border: 1px solid var(--color-border);
+    border-radius: 5px;
+}
+
+.bible-box .info img {
+    background: #000;
+    height: 30rem;
+    opacity: 1;
+}
+
+.bible-box .info .name {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--color-secondary);
+}
+
+.bible-box .info .authors-list .author {
+    font-style: italic;
+    font-weight: 400;
+}
+
+.bible-box .info .description {
+    margin: 3rem 0;
+}
+
+.bible-box .info .description h3,
+.bible-box .refs h3 {
+    position: relative;
+    font-weight: 400;
+    text-transform: capitalize;
+    margin-bottom: 1rem;
+}
+
+.bible-box .info .description h3:after,
+.bible-box .refs h3:after {
+    content: "";
+    width: 100%;
+    border-bottom: 1px solid #333;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.bible-box .authors-tabs {
+    padding: 1rem;
+}
+
+.bible-box .authors-tabs .head {
+    cursor: pointer;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.bible-box .authors-tabs .head span {
+    padding: .5rem;
+    border-left: 1px solid #333;
+    border-top: 1px solid #333;
+}
+
+.bible-box .authors-tabs .head span.active {
+    color: var(--color-secondary);
+    font-weight: 400;
+}
+
+.bible-box .authors-tabs .head span:last-child {
+    border-right: 1px solid #333;
+}
+
+.bible-box .authors-tabs .box {
+    border: 1px solid #333;
+    display: grid;
+    grid-template-columns: 1fr;
+    min-height: 10rem;
+}
+
+.bible-box .authors-tabs .box .author-desc {
+    display: none;
+}
+
+.bible-box .authors-tabs .box .author-desc.show {
+    display: inline-block;
+}
+
+.ref-link {
+    padding-left: .5rem;
+}
+
+.ref-link sup {
+    font-weight: 300;
+    color: var(--color-secondary);
+}
+
+.refs {
+    display: flex;
+    flex-direction: column;
+    gap: .2rem;
+}
+
+.ref {
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 1px solid var(--color-border);
+
+    align-items: center;
+    /* align-content: start; */
+    justify-content: start;
+}
+
+.ref>div {
+    padding: .5rem;
+}
