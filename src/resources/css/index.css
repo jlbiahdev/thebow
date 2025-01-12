@@ -150,42 +150,6 @@ header {
     margin: 3rem 0 1.5rem 0;
     border-bottom: .2rem solid var(--color-border);
 }
-
-#menu nav ul {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    gap: 2rem;
-}
-
-#menu nav ul li {
-    cursor: pointer;
-    text-transform: uppercase;
-}
-
-#menu nav ul li a {
-    position: relative;
-    color: var(--color-secondary);
-    font-size: 2rem;
-    font-weight: 400;
-    text-decoration: none;
-    transition: 300ms;
-}
-
-#menu a:after {
-    content: "";
-    width: 100%;
-    border-bottom: 1px solid #333;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 300ms ease;
-}
-
-#menu a:hover:after {
-    opacity: 1;
-}
 /* ------------------------------------------- container --------------------------------------- */
 .container {
     width: 120rem;
@@ -214,8 +178,7 @@ header {
 
 /* ------------------------------------------- card cardoverlay -------------------------------- */
 
-.card,
-.cardoverlay {
+.card {
     /* flex-basis: 48%; */
     text-align: center;
     /* border-radius: 70px; */
@@ -223,14 +186,7 @@ header {
     color: #fff;
 }
 
-.cardoverlay {
-    position: relative;
-    width: 30%;
-    /* border: 1px solid green; */
-}
-
-.card img,
-.cardoverlay img {
+.card img {
     cursor: pointer;
     border-radius: 7px;
 }
@@ -238,26 +194,6 @@ header {
 .card img {
     height: 25rem;
     width: 20rem;
-}
-
-.cardoverlay img {
-    width: 100%;
-}
-
-.cardoverlay:hover .overlay {
-    opacity: 1;
-}
-
-.overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    border-radius: 7px;
-    cursor: pointer;
-    background: linear-gradient(rgba(0,0,0,.5), var(--color-primary));
-    opacity: 0;
-    transition: 1s;
 }
 
 .content .description .desc.show {
@@ -290,46 +226,6 @@ header {
     text-align: start;
     min-height: 22rem;
 }
-
-.cardoverlay .desc h3,
-.cardoverlay .desc p {
-    color: var(--color-white);
-}
-
-.cardoverlay .desc h3 {
-    font-size: 1rem;
-    font-weight: 900;
-}
-
-.cardoverlay .desc p {
-    font-size: 1rem;
-    font-weight: 400;
-    text-align: justify;
-}
-
-.cardoverlay .desc {
-    width: 80%;
-    position: absolute;
-    bottom: 30%;
-    left: 50%;
-    opacity: 0;
-    transform: translateX(-50%);
-    transition: 1s;
-}
-
-.cardoverlay:hover .desc {
-    bottom: 20%;
-    opacity: 1;
-}
-
-.cardoverlay hr {
-    background: #fff;
-    height: 2px;
-    border: 0;
-    margin: 15px auto;
-    width: 60%;
-}
-
 
 /* ------------------------------------------- otherbibles ---------------------------------------- */
 

@@ -1,0 +1,35 @@
+ul.main-menu {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+ul.main-menu li {
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+ul.main-menu li a {
+    position: relative;
+    color: var(--color-secondary);
+    font-size: 2rem;
+    font-weight: 400;
+    text-decoration: none;
+    transition: 300ms;
+}
+
+ul.main-menu a:after {
+    content: "";
+    width: 100%;
+    border-bottom: 1px solid #333;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 300ms ease;
+}
+
+ul.main-menu a:hover:after {
+    opacity: 1;
+}
