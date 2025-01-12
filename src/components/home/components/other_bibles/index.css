@@ -1,0 +1,47 @@
+#section-otherbibles .card-list {
+    margin-bottom: 3rem;
+}
+
+#section-otherbibles .card {
+    text-align: center;
+    color: #fff;
+}
+
+#section-otherbibles .card img {
+    cursor: pointer;
+    border-radius: 7px;
+    height: 25rem;
+    width: 20rem;
+}
+
+#section-otherbibles .content .card-description .desc.show {
+    display: inline-block;
+}
+
+#section-otherbibles .content .card-description .desc {
+    display: none;
+    font-weight: 300;
+    transition: 1s ease-in all;
+}
+
+#section-otherbibles .content .card-description .desc h3 {
+    position: relative;
+    font-weight: bold;
+}
+
+#section-otherbibles .content .card-description .desc h3 i {
+    cursor: pointer;
+    position: absolute;
+
+    color: var(--color-secondary);
+    top: -5%;
+    margin-left: 1rem;
+    font-size: 1.5rem;
+}
+
+#section-otherbibles .content .card-description .desc p {
+    /* font-size: 1.8rem; */
+    text-align: start;
+    min-height: 22rem;
+}
+

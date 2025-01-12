@@ -1,4 +1,5 @@
 export const COOKIES = {
+    ACTIVE_PAGE: 'ACTIVE_PAGE',
     SELECTED_BIBLE: 'SELECTED_BIBLE',
 };
 

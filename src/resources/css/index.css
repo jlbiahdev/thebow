@@ -158,78 +158,17 @@ header {
     /* border: 1px solid green; */
 }
 
-/* ------------------------------------------- list -------------------------------------------- */
-.main-cards {
+/* ------------------------------------------- common ------------------------------------------ */
+.card-list {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     gap: 1rem;
  
-    justify-content: space-around;
-}
-
-.list {
-    display: flex;
-    flex-direction: row;
-    gap: 1rem;
- 
     justify-content: center;
 }
 
-/* ------------------------------------------- card cardoverlay -------------------------------- */
-
-.card {
-    /* flex-basis: 48%; */
-    text-align: center;
-    /* border-radius: 70px; */
-    /* margin-bottom: 20px; */
-    color: #fff;
-}
-
-.card img {
-    cursor: pointer;
-    border-radius: 7px;
-}
-
-.card img {
-    height: 25rem;
-    width: 20rem;
-}
-
-.content .description .desc.show {
-    display: inline-block;
-}
-
-.content .description .desc {
-    display: none;
-    font-weight: 300;
-    transition: 1s ease-in all;
-}
-
-.content .description .desc h3 {
-    position: relative;
-    font-weight: bold;
-}
-
-.content .description .desc h3 i {
-    cursor: pointer;
-    position: absolute;
-
-    color: var(--color-secondary);
-    top: -5%;
-    margin-left: 1rem;
-    font-size: 1.5rem;
-}
-
-.content .description .desc p {
-    /* font-size: 1.8rem; */
-    text-align: start;
-    min-height: 22rem;
-}
-
-/* ------------------------------------------- otherbibles ---------------------------------------- */
-
-/* ------------------------------------------- error ---------------------------------------------- */
+/* ------------------------------------------- error ------------------------------------------- */
 #error {
     border: 1px solid var(--color-danger);
     color: var(--color-danger);
