@@ -69,10 +69,12 @@ export const data = [
     {
         testament: 'old',
         name: 'Ancien Testament',
+        image: 'fotor-ot.jpg',
         categories: [
             {
                 id:'cat-1',
                 name: 'Le Pentateuque',
+                image: 'fotor-ot-pentateuch_1.jpg',
                 books: [
                     {
                         key: 'gen',
@@ -104,6 +106,7 @@ export const data = [
             {
                 id:'cat-2',
                 name: 'Les Livres Historiques',
+                image: 'fotor-ot-historical_books.jpg',
                 books: [        
                     {
                         key: 'jos',
@@ -170,6 +173,7 @@ export const data = [
             {
                 id:'cat-3',
                 name: 'Les Livres Poetiques',
+                image: 'fotor-ot-poetic_books.jpg',
                 books: [
                     {
                         key: 'job',
@@ -201,6 +205,7 @@ export const data = [
             {
                 id:'cat-4',
                 name: 'Les Prophetes',
+                image: 'fotor-ot-prophets.jpg',
                 books: [
                     {
                         key: 'isa',
@@ -295,10 +300,12 @@ export const data = [
     {
         testament: 'new',
         name: 'Nouveau Testament',
+        image: 'fotor-nt.jpg',
         categories: [
             {
                 id:'cat-5',
                 name: 'Les Evangiles',
+                image: 'fotor-nt-gospels.jpg',
                 books: [
                     {
                         key: 'mat',
@@ -325,6 +332,7 @@ export const data = [
             {
                 id:'cat-6',
                 name: 'Le Livre Des Actes Des Apotres',
+                image: 'fotor-nt-acts_2.jpg',
                 books: [
                     {
                         key: 'act',
@@ -336,6 +344,7 @@ export const data = [
             {
                 id:'cat-7',
                 name: 'Les Epitres De Paul',
+                image: 'fotor-nt-paul.jpg',
                 books: [
                     {
                         key: 'rom',
@@ -407,6 +416,7 @@ export const data = [
             {
                 id:'cat-8',
                 name: 'Autres Epitres',
+                image: 'fotor-nt-paul_2.jpg',
                 books: [
                     {
                         key: 'heb',
@@ -453,6 +463,7 @@ export const data = [
             {
                 id:'cat-9',
                 name: `Le Livre De L'apocalypse`,
+                image: 'fotor-nt-revelation.jpg',
                 books: [
                     {
                         key: 'rev',

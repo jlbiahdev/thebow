@@ -13,7 +13,7 @@ $(document).ready(() => {
     $('title').html('Bible - ' + bibleInfo.data.name);
 
     bibleIndex.index.forEach(index => {
-        $('.content').append(`<div class='testament' id='${index.testament}'><div class='name'>${index.name}</div><div class='categories'></div></div>`)
+        $('.content').append(`<div class='testament' id='${index.testament}'><div class='image'><img src='/src/resources/img/bible/${index.image}' alt=''></div><div class='name'>${index.name}</div><div class='categories'></div></div>`)
         console.log('categories', index.categories)
 
         index.categories.forEach(category => {
