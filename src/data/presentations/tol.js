@@ -32,5 +32,8 @@ export const data = {
             title:`Source`,
             url: 'https://catalogue.bnf.fr/ark:/12148/cb118732410'
         },
+    ],
+    books: [ 
+        '',
     ]
 }

@@ -31,5 +31,8 @@ export const data = {
             title:`wikipedia.org - King James Version`,
             url: 'https://en.wikipedia.org/w/index.php?title=King_James_Version#Translation_Committee'
         },
+    ],
+    books: [ 
+        '',
     ]
 }

@@ -36,6 +36,9 @@ export const data = {
             title:`wikipedia.org - Bible Segond`,
             url: 'https://fr.wikipedia.org/wiki/Bible_Segond'
         },
+    ],
+    books: [ 
+        '',
     ]
 }
 

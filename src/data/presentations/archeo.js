@@ -21,5 +21,8 @@ export const data = {
             title:`societebiblique.com - Société Biblique de Genève`,
             url: 'https://societebiblique.com/fr'
         },
+    ],
+    books: [ 
+        '',
     ]
 }

@@ -43,9 +43,9 @@
 :root {
     --color-primary: #025492;
     --color-secondary: #1b7895;
-    --color-tertiary: #eeddd3;
+    --color-tertiary: #f8bf0f;
     --color-quaternary: #000;
-    --color-icon-default: #6c757d;
+    --color-icon-primary: #6c757d;
     --color-border: #ced4da;
 
     --color-white: #fff;

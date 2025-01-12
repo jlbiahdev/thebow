@@ -6,8 +6,6 @@ import * as DarbyBible from '../../data/presentations/darby.js';
 import * as OstyBible from '../../data/presentations/osty.js';
 import * as TobBible from '../../data/presentations/tob.js';
 
-export const cssFilePath = '/src/components/obv/index.css';
-export const htmlFilePath = '/src/components/obv/index.html';
 export const pageName = Commons.APP_PAGES.OtherBibleView;
 
 $(document).ready(() => {

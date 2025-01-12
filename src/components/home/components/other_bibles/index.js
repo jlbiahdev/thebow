@@ -25,7 +25,7 @@ const bible_more_clicked = (btn) => {
     
     console.log('bible_more_clicked')
     Cookies.setCookie(Cookies.COOKIES.ACTIVE_PAGE, Commons.APP_PAGES.OtherBibleView, 1);
-    Commons.open_page_by_id(key, './components/obv/', Cookies.COOKIES.SELECTED_BIBLE);
+    Commons.open_page_by_id(key, './pages/obv/', Cookies.COOKIES.SELECTED_BIBLE);
 }
 
 const remove_links = (text) => {

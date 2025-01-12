@@ -1,3 +1,4 @@
+import * as Cookies from '../../../../resources/js/cookies.js';
 import * as Commons from '../../../../resources/js/common.js';
 import * as Presentations from '../../../../data/presentations/index.js';
 import * as MainBibles from '../../../../data/home/main_bibles.js';
@@ -20,16 +21,22 @@ export const init = (parentNodeKey) => {
                 .replace('{bible_image}', `/src/assets/img/bible/${presentation.data.image}`)
                 .replace('{bible_name}', presentation.data.name)
                 .replace('{bible_text}', presentation.data.text)
+                .replaceAll('{bible_key}', item)
                 ;
 
-                $(`${parentNodeKey} .content .main-cards`).append(newHtml)
+                $(`${parentNodeKey} .content .main-cards`).append(newHtml);
+                $(`#bbl-${item} i`).on('click', function () { bible_clicked(this); });
         })
     
     })
     .then(() => {
         $(`${parentNodeKey} .head`).html(MainBibles.data.title);
     });
+}
 
+const bible_clicked = (item) => {
+    var key = $(item).data('id')
 
+    Commons.open_page_by_id(key, './pages/bbl/', Cookies.COOKIES.SELECTED_BIBLE);
 }
 

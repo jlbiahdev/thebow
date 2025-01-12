@@ -28,5 +28,8 @@ export const data = {
             title:`wikipedia.org - Assemblées de Frères`,
             url: 'https://fr.wikipedia.org/wiki/Assembl%C3%A9es_de_Fr%C3%A8res'
         },
+    ],
+    books: [ 
+        '',
     ]
 }

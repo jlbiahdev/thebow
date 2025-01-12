@@ -25,5 +25,8 @@ export const data = {
             title:`wikipedia.org - Émile Osty`,
             url: 'https://fr.wikipedia.org/wiki/%C3%89mile_Osty'
         },
+    ],
+    books: [ 
+        '',
     ]
 }

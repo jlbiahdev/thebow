@@ -47,5 +47,8 @@ export const data = {
             title:`wikipedia.org - Faculté de théologie protestante de Paris`,
             url: 'https://fr.wikipedia.org/wiki/Facult%C3%A9_de_th%C3%A9ologie_protestante_de_Paris'
         },
+    ],
+    books: [ 
+        '',
     ]
 }
