@@ -6,7 +6,14 @@ export const BIBLE_KEYS = {
     Darby: 'darby',
     Osty: 'osty',
     Tol: 'tol'
-}
+};
+
+export const APP_PAGES = {
+    Home: 'Home',
+    BibleView: 'BibleView',
+    OtherBibleView: 'OtherBibleView',
+    Faq: 'Faq'
+};
 
 export const open_page = (page) => {
     window.open(page,"_self");

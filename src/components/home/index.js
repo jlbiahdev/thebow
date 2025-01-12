@@ -8,6 +8,8 @@ import * as OtherBiblesComponent from './components/other_bibles/index.js';
 
 export const cssFilePath = '/src/components/home/index.css';
 export const htmlFilePath = '/src/components/home/index.html';
+export const pageName = Commons.APP_PAGES.Home;
+
 export const init = () => {
     // console.log('IndexComponent.init')
     insertMenu();

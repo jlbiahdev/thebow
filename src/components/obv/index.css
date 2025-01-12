@@ -36,7 +36,10 @@
 
 .bible-box .info .image {
     display: flex;
+
+    align-items: center;
     justify-content: center;
+
     padding: 1rem;
     background-color: #a59aa563;
     border: 1px solid var(--color-border);
@@ -45,7 +48,7 @@
 
 .bible-box .info img {
     background: #000;
-    height: 30rem;
+    width: 80%;
     opacity: 1;
 }
 
@@ -93,26 +96,30 @@
     flex-direction: row;
 }
 
-.bible-box .authors-tabs .head span {
+.bible-box .authors-tabs .head>span {
     padding: .5rem;
     border-left: 1px solid #333;
     border-top: 1px solid #333;
+    border-top-left-radius: 5px;
 }
 
-.bible-box .authors-tabs .head span.active {
+.bible-box .authors-tabs .head>span.active {
     color: var(--color-secondary);
     font-weight: 400;
 }
 
-.bible-box .authors-tabs .head span:last-child {
+.bible-box .authors-tabs .head>span:last-child {
     border-right: 1px solid #333;
 }
 
 .bible-box .authors-tabs .box {
-    border: 1px solid #333;
     display: grid;
     grid-template-columns: 1fr;
     min-height: 10rem;
+
+    padding: 1rem;
+    border: 1px solid #333;
+    border-top-right-radius: 5px;
 }
 
 .bible-box .authors-tabs .box .author-desc {

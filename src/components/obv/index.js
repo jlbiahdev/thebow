@@ -4,7 +4,11 @@ import * as ArcheoBible from '../../data/presentations/archeo.js';
 import * as BoJBible from '../../data/presentations/boj.js';
 import * as DarbyBible from '../../data/presentations/darby.js';
 import * as OstyBible from '../../data/presentations/osty.js';
-import * as TolBible from '../../data/presentations/tol.js';
+import * as TobBible from '../../data/presentations/tob.js';
+
+export const cssFilePath = '/src/components/obv/index.css';
+export const htmlFilePath = '/src/components/obv/index.html';
+export const pageName = Commons.APP_PAGES.OtherBibleView;
 
 $(document).ready(() => {
     var selectedBible = Cookies.getCookie(Cookies.COOKIES.SELECTED_BIBLE);
@@ -12,7 +16,6 @@ $(document).ready(() => {
     // console.log('selectedBible is', selectedBible)
     load_page(selectedBible)
 });
-
 
 const load_page = (key) => {
     var selectedBible = null;
@@ -31,17 +34,17 @@ const load_page = (key) => {
             selectedBible = OstyBible.data;
             break;
         default:
-            selectedBible = TolBible.data;
+            selectedBible = TobBible.data;
             break;
     }
-    console.log('Commons.BIBLE_KEYS.BoJ', Commons.BIBLE_KEYS.BoJ)
-    console.log('key', key)
-    console.log('selectedBible', selectedBible)
+    // console.log('Commons.BIBLE_KEYS.BoJ', Commons.BIBLE_KEYS.BoJ)
+    // console.log('key', key)
+    // console.log('selectedBible', selectedBible)
 
     var show = 'show';
     var active = 'active';
     $('.breadcrumb .breadcrumb-item.active').text(selectedBible.name);
-    $('.image img').attr('src', `../../assets/img/${selectedBible.image}`);
+    $('.image img').attr('src', `/src/assets/img/bible/${selectedBible.image}`);
     $('.data .name').text(selectedBible.name);
     $('.data .text').html(convert_links(selectedBible.text));
     selectedBible.authors.forEach(author => {
@@ -54,20 +57,16 @@ const load_page = (key) => {
     selectedBible.refs.forEach(ref => {
         $('.refs').append(`<div class='ref'><div class='ref-id'>${ref.id}</div><div class='ref-url'><a id='link-${ref.id}' href='${ref.url}'>${ref.title}</a></div></div>`);
     });
-    $('.bible-box .authors-tabs .head span').on('click', function() { tabpanel_clicked(this); })
+    $('.bible-box .authors-tabs .head>span').on('click', function() { tabpanel_clicked(this); })
 }
 
 const convert_links = (text) => {
     var output = text;
     var kws = "#r";
     var kwe = "r#";
-    var cnt = 0;
-    var textLen = text.length;
-
-    console.log('text Start', output)
     var finished = false;
 
-    while (cnt < textLen) {
+    while (!finished) {
         var indexStart = output.indexOf(kws);
         var indexEnd = output.indexOf(kwe);
         var refText = output.substring(indexStart, indexEnd + 2)
@@ -77,11 +76,7 @@ const convert_links = (text) => {
             output = output.replace(refText, `<span class='ref-link'><a href='#link-${refId}'><sup>${refId}</sup></a></span>`)
         }
         finished = indexStart < 0;
-        console.log('indexStart', indexStart, 'indexEnd', indexEnd, 'refText', refText, 'refId', refId)
-        cnt++;
     }
-
-    console.log('text End', output)
 
     return output;
 }

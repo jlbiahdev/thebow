@@ -22,9 +22,10 @@ const other_bible_clicked = (bible) => {
 const bible_more_clicked = (btn) => {
     var obj = $(btn);
     var key = obj.data('key');
-
-    Commons.open_page_by_id(key, './components/presentation/', Cookies.COOKIES.SELECTED_BIBLE);
-    console.log('page', key)
+    
+    console.log('bible_more_clicked')
+    Cookies.setCookie(Cookies.COOKIES.ACTIVE_PAGE, Commons.APP_PAGES.OtherBibleView, 1);
+    Commons.open_page_by_id(key, './components/obv/', Cookies.COOKIES.SELECTED_BIBLE);
 }
 
 const remove_links = (text) => {
