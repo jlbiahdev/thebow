@@ -70,11 +70,11 @@ html {
     font-size: 90.5%;
     overflow-x: hidden;
     background-color: #eeddd3;
-    user-select: none;
+    
 }
 
 section {
-    margin: 4rem 0;
+    padding: 4rem 0;
     border-bottom: 1px solid var(--color-secondary);
 }
 
@@ -195,29 +195,38 @@ header {
 }
 
 /* ------------------------------------------- list -------------------------------------------- */
+.main-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+ 
+    justify-content: space-around;
+}
+
 .list {
     display: flex;
     flex-direction: row;
     gap: 1rem;
  
     justify-content: center;
-
-    /* border: 1px solid green; */
 }
 
 /* ------------------------------------------- card cardoverlay -------------------------------- */
 
 .card,
 .cardoverlay {
-    flex-basis: 48%;
+    /* flex-basis: 48%; */
     text-align: center;
-    border-radius: 70px;
-    margin-bottom: 20px;
+    /* border-radius: 70px; */
+    /* margin-bottom: 20px; */
     color: #fff;
 }
 
 .cardoverlay {
     position: relative;
+    width: 30%;
+    /* border: 1px solid green; */
 }
 
 .card img,
@@ -288,12 +297,12 @@ header {
 }
 
 .cardoverlay .desc h3 {
-    font-size: 2.5rem !important;
+    font-size: 1rem;
     font-weight: 900;
 }
 
 .cardoverlay .desc p {
-    font-size: 2rem !important;
+    font-size: 1rem;
     font-weight: 400;
     text-align: justify;
 }
@@ -301,7 +310,7 @@ header {
 .cardoverlay .desc {
     width: 80%;
     position: absolute;
-    bottom: 10%;
+    bottom: 30%;
     left: 50%;
     opacity: 0;
     transform: translateX(-50%);
@@ -309,7 +318,7 @@ header {
 }
 
 .cardoverlay:hover .desc {
-    bottom: 40%;
+    bottom: 20%;
     opacity: 1;
 }
 
