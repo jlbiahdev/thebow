@@ -45,7 +45,11 @@
     --color-secondary: #1b7895;
     --color-tertiary: #f8bf0f;
     --color-quaternary: #000;
+
     --color-icon-primary: #6c757d;
+
+    --color-bible: #036666;
+
     --color-border: #ced4da;
 
     --color-white: #fff;
@@ -166,6 +170,33 @@ header {
     gap: 1rem;
  
     justify-content: center;
+}
+
+/* ------------------------------------------- shadow ------------------------------------------ */
+.shadow {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 666;
+    
+    display: grid;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+
+    background: rgba(85, 85, 85, .7);
+}
+
+.shadow .card {
+    border: 1px solid var(--color-box-border);
+    border-radius: 5px;
+    background-color: #fff;
+
+    font-size: 2rem;
+
+    width: 50rem;
 }
 
 /* ------------------------------------------- error ------------------------------------------- */

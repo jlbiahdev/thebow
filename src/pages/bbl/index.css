@@ -1,39 +1,80 @@
 .content {
+}
+
+.content .section {
+    margin-bottom: 6rem !important;
+
+    /* background-color: red; */
+}
+
+.content .section h2 {
+    color: var(--color-primary);
+	font-size: 3rem;
+	font-weight: 700;
+
+    text-transform: capitalize;
+}
+
+/* ------------------------------------------- common ------------------------------------------ */
+.image-container {
+    position: relative;
+    margin: 0;
+    padding: 0;
+    /* border: 1px solid gray; */
+}
+
+.image-container .name {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+
+    padding: 1rem;
+    border: 5px solid var(--color-primary);
+}
+
+.image-container .name {
+    font-size: 30px;
+}
+  
+.image-container img {
+    width: 100%;
+    height: auto;
+    /* border: 1px solid red; */
+}
+
+
+/* ------------------------------------------- testaments -------------------------------------- */
+.all-testaments {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
 }
 
 .testament {
+    cursor: pointer;
     display: flex;
     flex-direction: column;
     gap: 0;
 
-    border: 1px solid var(--color-primary);
     border-radius: 5px;
-    min-height: 25rem;
+
+    /* border: 1px solid var(--color-primary); */
 }
 
-.testament>div {
-    /* border: 1px solid red; */
-}
-
-.testament>.image img {
-    width: 100%;
-}
-
-.testament .name,
 .testament .number {
-    cursor: pointer;
     text-align: center;
-    font-weight: 400;
 }
 
-.testament .name{
+.testament .name {
     margin-bottom: 1rem;
 }
 
-.testament>.name{
+.testament>.name {
     padding: 1rem;
     color: var(--color-white);
     background-color: var(--color-primary);
@@ -41,69 +82,152 @@
     /* border: 1px solid red; */
 }
 
-.categories {
+/* ------------------------------------------- categories -------------------------------------- */
+#categories {
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+
+    /* border: 1px solid red; */
+}
+
+#all-categories {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: .1rem;
+ 
+    align-items: start;
+    align-content: start;
+    justify-content: center;
 
-    padding: 1rem;
+    /* border: 1px solid red; */
 }
 
 .category {
-    display: flex;
+    cursor: pointer;
+    display: none;
     flex-direction: column;
     gap: 1rem;
 
-    border: 1px solid var(--color-icon-primary);
-    width: 100%;
+    margin: .2rem;
+    width: 20%;
+    /* border: 1px solid var(--color-icon-primary); */
 }
 
-.category .name {
-    padding: 1rem;
+.category .image-container .name {
+    font-size: .9rem;
     background-color: var(--color-tertiary);
+    opacity: .9;
+
+    border: none;
 }
 
-.books {
+/* ------------------------------------------- books ------------------------------------------- */
+#books {
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+
+    /* border: 1px solid red; */
+}
+
+#all-books {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: .5rem;
+    gap: .1rem;
 
     align-items: start;
-    justify-content: space-between;
+    align-content: start;
+    justify-content: center;
 
-    padding: 1rem;
+    /* border: 1px solid red; */
 }
 
 .book {
+    cursor: pointer;
+    display: none;
+    flex-direction: row;
+    gap: 1rem;
+
+    margin: .2rem;
+    width: 15%;
+
+    justify-content: space-between;
+    border: 1px solid var(--color-icon-primary);
+    border-radius: 5px;
+}
+
+.book i {
+    font-size: 2rem;
+    color: var(--color-bible);
+}
+
+/* .book[data-parent-id='cat-1']:hover ~ .book[data-parent-id='cat-1'] {
+    background-color: aqua;
+} */
+
+.book-card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0;
+
+    padding: 0;
+    margin: 0;
+}
+
+.book-card .data {
     display: flex;
     flex-direction: column;
-    gap: 0;
-    border: 1px solid var(--color-icon-primary);
-    width: 10rem;
-
-}
-
-.book .name {
     padding: 1rem;
-    background-color: var(--color-secondary);
 }
 
-.chapters {
+.book-card .data .name {
+    font-weight: 400;
+}
+
+.book-card .data .count {
+    font-size: .9rem;
+}
+
+.book-card img {
+    width: 100%;
+}
+
+/* ------------------------------------------- chapters ---------------------------------------- */
+#chapters {
+    display: none;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+
+    /* border: 1px solid red; */
+}
+
+#all-chapters {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: .5rem;
+    gap: 1rem;
 
     align-items: start;
-    justify-content: space-between;
+    align-content: start;
+    justify-content: start;
 
     padding: 1rem;
+    height: 15rem;
+    overflow: scroll;
+
+    border: 1px solid var(--color-primary);
 }
 
 .chapter {
-    display: flex;
+    cursor: pointer;
+    display: none;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 
@@ -113,13 +237,3 @@
     border: 1px solid var(--color-secondary);
     border-radius: 50%;
 }
-
-.expandable {
-    color: rebeccapurple;
-    max-height: 0;
-    transition: max-height 500ms ease-in-out;
-  }
-  .expandable.show {
-    max-height: 100rem;
-  }
-

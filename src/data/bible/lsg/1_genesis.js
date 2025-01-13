@@ -3,7 +3,8 @@ export const data = [
     chapter: 1,
     lectures: [
       {
-        title: "",
+        id: 1,
+        title: "Création du monde",
         verses: [
           { number: 1, "text": `Au commencement, Dieu créa le ciel et la terre.` },
           { number: 2, "text": `La terre n’était que chaos et vide. Il y avait des ténèbres à la surface de l'abîme et l'Esprit de Dieu planait au-dessus de l’eau.` },
@@ -30,15 +31,12 @@ export const data = [
           { number: 23, "text": `Il y eut un soir et il y eut un matin. Ce fut le cinquième jour` },
           { number: 24, "text": `Dieu dit: «Que la terre produise des animaux vivants selon leur espèce: du bétail, des reptiles et des animaux terrestres selon leur espèce.» Et cela se passa ainsi` },
           { number: 25, "text": `Dieu fit les animaux terrestres selon leur espèce, le bétail selon son espèce et tous les reptiles de la terre selon leur espèce. Dieu vit que c'était bon` },
-        ]
-      },
-      {
-        title: `Création de l’être humain et repos`,
-        verses: [
           { number: 26, "text": `Puis Dieu dit: «Faisons l'homme à notre image, à notre ressemblance! Qu'il domine sur les poissons de la mer, sur les oiseaux du ciel, sur le bétail, sur toute la terre et sur tous les reptiles qui rampent sur la terre.»` },
           { number: 27, "text": `Dieu créa l'homme à son image, il le créa à l'image de Dieu. *Il créa l'homme et la femme.[a]` },
           { number: 28, "text": `Dieu les bénit et leur dit: «Reproduisez-vous, devenez nombreux, remplissez la terre et soumettez-la! Dominez sur les poissons de la mer, sur les oiseaux du ciel et sur tout animal qui se déplace sur la terre!»` },
-          { number: 29, "text": `Dieu dit aussi: «Je vous donne toute herbe à graine sur toute la surface de la terre, ainsi que tout arbre portant des fruits avec pépins ou noyau: ce sera votre nourriture` }, { number: 30, "text": `A tout animal de la terre, à tout oiseau du ciel et à tout ce qui se déplace sur la terre, à ce qui est animé de vie, je donne toute herbe verte pour nourriture.» Et cela se passa ainsi. 31 Dieu regarda tout ce qu'il avait fait, et il constata que c'était très bon. Il y eut un soir et il y eut un matin. Ce fut le sixième jour` }
+          { number: 29, "text": `Dieu dit aussi: «Je vous donne toute herbe à graine sur toute la surface de la terre, ainsi que tout arbre portant des fruits avec pépins ou noyau: ce sera votre nourriture` }, 
+          { number: 30, "text": `A tout animal de la terre, à tout oiseau du ciel et à tout ce qui se déplace sur la terre, à ce qui est animé de vie, je donne toute herbe verte pour nourriture.» Et cela se passa ainsi.`},
+          { number: 31, "text": `Dieu regarda tout ce qu'il avait fait, et il constata que c'était très bon. Il y eut un soir et il y eut un matin. Ce fut le sixième jour` }
         ],
         footnotes: [`Genèse 1:27 Il créa l'homme et la femme: repris en 5.2 et cité en Matthieu 19.4; Marc 10.6`]
       }
@@ -48,14 +46,17 @@ export const data = [
     chapter: 2,
     lectures: [
       {
-        title: "", verses: [
+        id: 3,
+        title: "", 
+        verses: [
           { number: 1, "text": `C’est ainsi que furent terminés le ciel et la terre et toute leur armée.` },
           { number: 2, "text": `Le septième jour, Dieu mit un terme à son travail de création. *Il se reposa de toute son activité le septième jour.[a]` },
           { number: 3, "text": `Dieu bénit le septième jour et en fit un jour saint, parce que ce jour-là il se reposa de toute son activité, de tout ce qu'il avait créé` },
         ]
       },
       {
-        title: `Le jardin d’Eden`,
+        id: 4,
+        title: `Formation de l'homme et de la femme`,
         verses: [
           { number: 4, "text": `Telle fut l'histoire du ciel et de la terre quand ils furent créés` },
           { number: 5, "text": `Lorsque l'Eternel Dieu[b] fit la terre et le ciel, il n'y avait encore aucun arbuste des champs sur la terre et aucune herbe des champs ne poussait encore, car l'Eternel Dieu n'avait pas fait pleuvoir sur la terre et il n'y avait pas d'homme pour cultiver le sol.` },
@@ -93,7 +94,8 @@ export const data = [
     chapter: 3,
     lectures: [
       {
-        title: "",
+        id: 5,
+        title: "Le jardin d’Eden, et le péché d'Adam",
         verses: [
           { number: 1, "text": `Le serpent était le plus rusé de tous les animaux sauvages que l'Eternel Dieu avait faits. Il dit à la femme: «Dieu a-t-il vraiment dit: ‘Vous ne mangerez aucun des fruits des arbres du jardin’?» ` },
           { number: 2, "text": `La femme répondit au serpent: «Nous mangeons du fruit des arbres du jardin.` },
@@ -127,6 +129,7 @@ export const data = [
     chapter: 4,
     lectures: [
       {
+        id: 6,
         title: "",
         verses: [
           { number: 1, "text": `Adam eut des relations conjugales avec sa femme Eve. Elle tomba enceinte et mit au monde Caïn. Elle dit: «J'ai donné vie à un homme avec l'aide de l'Eternel.» ` },
@@ -147,6 +150,7 @@ export const data = [
         ]
       },
       {
+        id: 7,
         title: `Descendance de Caïn`,
         verses: [
           { number: 16, "text": `Caïn s'éloigna de l'Eternel et habita le pays de Nod, à l'est d'Eden` },
@@ -168,6 +172,7 @@ export const data = [
     chapter: 5,
     lectures: [
       {
+        id: 8,
         title: "",
         verses: [
           { number: 1, "text": `Voici le livre de l’histoire d'Adam. Lorsque Dieu créa l'homme, il le fit à la ressemblance de Dieu.` },
@@ -215,6 +220,7 @@ export const data = [
     chapter: 6,
     lectures: [
       {
+        id: 9,
         title: `Construction de l’arche de Noé`,
         verses: [
           { number: 1, "text": `Lorsque les hommes eurent commencé à se multiplier à la surface de la terre et que des filles leur furent nées, ` },
@@ -247,6 +253,7 @@ export const data = [
     chapter: 7,
     lectures: [
       {
+        id: 10,
         title: `Le déluge`,
         verses: [
           { number: 1, "text": `L'Eternel dit à Noé: «Entre dans l'arche avec toute ta famille, car je t'ai vu comme juste devant moi dans cette génération` },
@@ -278,6 +285,7 @@ export const data = [
     chapter: 8,
     lectures: [
       {
+        id: 11,
         title: `La sortie de l'arche`,
         verses: [
           { number: 1, "text": `Dieu se souvint de Noé, de tous les animaux et de tout le bétail qui étaient avec lui dans l'arche. Il fit passer un vent sur la terre et l’eau se calma.` },
@@ -308,6 +316,7 @@ export const data = [
     chapter: 9,
     lectures: [
       {
+        id: 12,
         title: `Noé et ses fils`,
         verses: [
           { number: 1, "text": `Dieu bénit Noé et ses fils. Il leur dit: «Reproduisez-vous, devenez nombreux et remplissez la terre.` },
@@ -339,6 +348,7 @@ export const data = [
     chapter: 10,
     lectures: [
       {
+        id: 13,
         title: `Descendance des fils de Noé`,
         verses: [
           { number: 1, "text": `Voici la lignée des fils de Noé, Sem, Cham et Japhet. Ils eurent des fils après le déluge` },
@@ -369,6 +379,7 @@ export const data = [
     chapter: 11,
     lectures: [
       {
+        id: 14,
         title: `La tour de Babel`,
         verses: [
           { number: 1, "text": `Toute la terre avait une seule langue et les mêmes mots.` },
@@ -384,6 +395,7 @@ export const data = [
       },
       { title: `Histoire d’Abraham 11.10–25.18`, verses: [] },
       {
+        id: 15,
         title: `Les ancêtres d'Abram`,
         verses: [
           { number: 10, "text": `Voici la lignée de Sem. A l'âge de 100 ans, Sem eut pour fils Arpacshad, 2 ans après le déluge.` },
@@ -421,6 +433,7 @@ export const data = [
     chapter: 12,
     lectures: [
       {
+        id: 16,
         title: `L'appel d'Abram`,
         verses: [
           { number: 1, "text": `L'Eternel dit à Abram: «*Quitte ton pays, ta patrie et ta famille et va dans le pays que je te montrerai.[a] ` },
@@ -435,6 +448,7 @@ export const data = [
         ]
       },
       {
+        id: 17,
         title: `Abram en Egypte`,
         verses: [
           { number: 10, "text": `Il y eut une famine dans le pays et Abram descendit en Egypte pour y séjourner, car la famine pesait lourdement sur le pays.` },
@@ -462,6 +476,7 @@ export const data = [
     chapter: 13,
     lectures: [
       {
+        id: 18,
         title: `Séparation d'avec Lot`,
         verses: [
           { number: 1, "text": `Abram remonta d'Egypte vers le Néguev avec sa femme et tout ce qui lui appartenait. Lot était avec lui.` },
@@ -476,6 +491,7 @@ export const data = [
           { number: 10, "text": `Lot leva les yeux et vit que toute la plaine du Jourdain était entièrement arrosée. Avant que l'Eternel n’ait détruit Sodome et Gomorrhe, c'était, jusqu'à Tsoar, comme un jardin de l'Eternel, comme l'Egypte.` }, { number: 11, "text": `Lot choisit pour lui toute la plaine du Jourdain et se mit en route vers l'est. C'est ainsi qu'ils se séparèrent l'un de l'autre.` }, { number: 12, "text": `Abram s’installa dans le pays de Canaan, tandis que Lot s’installait dans les villes de la plaine et dressait ses tentes jusqu'à Sodome.` }, { number: 13, "text": `Les habitants de Sodome étaient mauvais et péchaient beaucoup contre l'Eternel` },]
       },
       {
+        id: 19,
         title: `Nouvelles promesses à Abram`,
         verses: [
           { number: 14, "text": `L'Eternel dit à Abram, après que Lot se fut séparé de lui: «Lève les yeux et, de l'endroit où tu es, regarde vers le nord et le sud, vers l'est et l'ouest.` },
@@ -491,6 +507,7 @@ export const data = [
     chapter: 14,
     lectures: [
       {
+        id: 20,
         title: `Abram vainqueur de plusieurs rois`,
         verses: [
           { number: 1, "text": `Durant leur règne, Amraphel, roi de Shinear, Arjoc, roi d'Ellasar, Kedorlaomer, roi d'Elam, et Tideal, roi de Gojim, ` },
@@ -512,6 +529,7 @@ export const data = [
         ]
       },
       {
+        id: 21,
         title: `Abram béni par Melchisédek`,
         verses: [
           { number: 17, "text": `Lorsque Abram revint de sa victoire sur Kedorlaomer et sur les rois qui étaient ses alliés, le roi de Sodome sortit à sa rencontre dans la vallée de Shavé, c’est-à-dire la vallée du roi` },
@@ -531,6 +549,7 @@ export const data = [
     chapter: 15,
     lectures: [
       {
+        id: 22,
         title: `Renouvellement des promesses à Abram`,
         verses: [
           { number: 1, "text": `Après ces événements, la parole de l'Eternel fut adressée à Abram dans une vision. Il dit: «Abram, n’aie pas peur! Je suis ton bouclier et ta récompense sera très grande.» ` },
@@ -568,6 +587,7 @@ export const data = [
     chapter: 16,
     lectures: [
       {
+        id: 23,
         title: `Naissance d'Ismaël`,
         verses: [
           { number: 1, "text": `Saraï, la femme d'Abram, ne lui avait pas donné d'enfants, mais elle avait une servante égyptienne du nom d'Agar.` },
@@ -599,6 +619,7 @@ export const data = [
     chapter: 17,
     lectures: [
       {
+        id: 24,
         title: `Alliance de Dieu avec Abraham`,
         verses: [
           { number: 1, "text": `Lorsque Abram fut âgé de 99 ans, l'Eternel apparut à Abram et lui dit: «Je suis le Dieu tout-puissant. Marche devant moi et sois intègre.` },
@@ -643,6 +664,7 @@ export const data = [
     chapter: 18,
     lectures: [
       {
+        id: 25,
         title: `Confirmation de la naissance d'Isaac`,
         verses: [
           { number: 1, "text": `L'Eternel apparut à Abraham parmi les chênes de Mamré, alors qu'il était assis à l'entrée de sa tente pendant la chaleur du jour.` },
@@ -663,6 +685,7 @@ export const data = [
         ]
       },
       {
+        id: 26,
         title: `Intercession d'Abraham en faveur de Sodome`,
         verses: [
           { number: 16, "text": `Ces hommes se levèrent pour partir en se dirigeant du côté de Sodome. Abraham les accompagna pour les reconduire` },
@@ -692,6 +715,7 @@ export const data = [
     chapter: 19,
     lectures: [
       {
+        id: 27,
         title: `Destruction de Sodome et de Gomorrhe`,
         verses: [
           { number: 1, "text": `Les deux anges arrivèrent à Sodome vers le soir. Lot était assis à la porte de la ville. Quand Lot les vit, il se leva pour aller à leur rencontre et se prosterna le visage contre terre.` },
@@ -726,6 +750,7 @@ export const data = [
         ]
       },
       {
+        id: 28,
         title: `Descendance de Lot`,
         verses: [
           { number: 30, "text": `Lot quitta Tsoar pour la hauteur et s'installa dans la montagne avec ses deux filles, car il avait peur de rester à Tsoar. Il habita dans une grotte avec ses deux filles.` },
@@ -746,6 +771,7 @@ export const data = [
     chapter: 20,
     lectures: [
       {
+        id: 29,
         title: `Séjour d'Abraham à Guérar`,
         verses: [
           { number: 1, "text": `Abraham partit de là pour la région du Néguev. Il s’installa entre Kadès et Shur et fit un séjour à Guérar.` },
@@ -774,6 +800,7 @@ export const data = [
     chapter: 21,
     lectures: [
       {
+        id: 30,
         title: `Naissance d'Isaac et départ d’Ismaël`,
         verses: [
           { number: 1, "text": `L'Eternel intervint en faveur de Sara comme il l’avait dit, il accomplit pour elle ce qu'il avait promis: ` },
@@ -800,6 +827,7 @@ export const data = [
         ]
       },
       {
+        id: 31,
         title: `Abraham à Beer-Shéba`,
         verses: [
           { number: 22, "text": `A cette époque-là, Abimélec, accompagné de Picol, le chef de son armée, dit à Abraham: «Dieu est avec toi dans tout ce que tu fais.` },
@@ -828,6 +856,7 @@ export const data = [
     chapter: 22,
     lectures: [
       {
+        id: 32,
         title: `Mise à l’épreuve d’Abraham`,
         verses: [
           { number: 1, "text": `Après cela, Dieu mit Abraham à l'épreuve. Il lui dit: «Abraham!» Celui-ci répondit: «Me voici!» ` },
@@ -868,6 +897,7 @@ export const data = [
     chapter: 23,
     lectures: [
       {
+        id: 33,
         title: `Mort et ensevelissement de Sara`,
         verses: [
           { number: 1, "text": `Sara vécut 127 ans: c'est la durée de sa vie.` },
@@ -898,6 +928,7 @@ export const data = [
     chapter: 24,
     lectures: [
       {
+        id: 34,
         title: `Mariage d’Isaac et Rebecca`,
         verses: [
           { number: 1, "text": `Abraham était vieux, d'un âge avancé. L'Eternel l’avait béni dans tous les domaines.` },
@@ -975,6 +1006,7 @@ export const data = [
     chapter: 25,
     lectures: [
       {
+        id: 35,
         title: `Mort d'Abraham`,
         verses: [
           { number: 1, "text": `Abraham prit encore une femme du nom de Ketura.` },
@@ -991,6 +1023,7 @@ export const data = [
         ]
       },
       {
+        id: 36,
         title: `Descendance d'Ismaël`,
         verses: [,
           { number: 12, "text": `Voici la lignée d'Ismaël, fils d'Abraham, celui que l'Egyptienne Agar, la servante de Sara, avait donné à Abraham` },
@@ -1003,10 +1036,12 @@ export const data = [
         ]
       },
       {
+        id: 37,
         title: `Histoire d’Isaac 25.19–26.35`,
         verses: []
       },
       {
+        id: 38,
         title: `Naissance d’Esaü et Jacob`,
         verses: [
           { number: 19, "text": `Voici la lignée d'Isaac, fils d'Abraham. Abraham eut pour fils Isaac.` },
@@ -1038,6 +1073,7 @@ export const data = [
     chapter: 26,
     lectures: [
       {
+        id: 39,
         title: `Isaac à Guérar`,
         verses: [
           { number: 1, "text": `Il y eut une famine dans le pays, en plus de la première famine de l’époque d'Abraham, et Isaac se rendit vers Abimélec, le roi des Philistins, à Guérar.` },
@@ -1088,6 +1124,7 @@ export const data = [
     chapter: 27,
     lectures: [
       {
+        id: 40,
         title: `Vol de la bénédiction d'Esaü`,
         verses: [
           { number: 1, "text": `Isaac devenait vieux et ses yeux s'étaient affaiblis au point qu'il ne voyait plus. Alors il appela son fils aîné Esaü et lui dit: «Mon fils!» Il lui répondit: «Me voici!» ` },
@@ -1132,6 +1169,7 @@ export const data = [
         ]
       },
       {
+        id: 41,
         title: `Fuite de Jacob`,
         verses: [
           { number: 41, "text": `Esaü éprouva de la haine contre Jacob à cause de la bénédiction que son père lui avait accordée. Il disait dans son cœur: «Le moment où l'on mènera le deuil sur mon père va approcher et je tuerai mon frère Jacob.» ` },
@@ -1150,6 +1188,7 @@ export const data = [
     chapter: 28,
     lectures: [
       {
+        id: 42,
         title: "",
         verses: [
           { number: 1, "text": `Isaac appela Jacob, le bénit et lui ordonna: «Tu ne prendras pas une femme cananéenne.` }, { number: 2, "text": `Lève-toi, va à Paddan-Aram, chez Bethuel, le père de ta mère, et prends-y une femme parmi les filles de Laban, le frère de ta mère.` }, { number: 3, "text": `Que le Dieu tout-puissant te bénisse, te fasse proliférer et te multiplie afin que tu donnes naissance à tout un groupe de peuples! ` },
@@ -1157,7 +1196,9 @@ export const data = [
           { number: 5, "text": `Isaac fit donc partir Jacob et celui-ci s'en alla à Paddan-Aram, chez Laban, fils de Bethuel l'Araméen et frère de Rebecca, la mère de Jacob et d'Esaü` }, { number: 6, "text": `Esaü vit qu'Isaac avait béni Jacob et l'avait envoyé à Paddan-Aram pour y prendre une femme. Il vit aussi qu'en le bénissant il lui avait donné cet ordre: «Tu ne prendras pas une femme cananéenne.» ` },
           { number: 7, "text": `Il vit que Jacob avait écouté son père et sa mère et qu'il était parti pour Paddan-Aram.` }, { number: 8, "text": `Esaü comprit ainsi que les Cananéennes déplaisaient à son père Isaac, ` },
           { number: 9, "text": `et il alla trouver Ismaël. Il prit pour femme, en plus des femmes qu'il avait, Mahalath, qui était la fille d'Ismaël, le fils d'Abraham, et la sœur de Nebajoth` }]
-      }, {
+      }, 
+      {
+        id: 43,
         title: `Vision d’une échelle`, verses: [
           { number: 10, "text": `Jacob partit de Beer-Shéba et prit la direction de Charan.` }, { number: 11, "text": `Arrivé à un certain endroit, il y passa la nuit car le soleil était couché. Il prit une pierre dont il fit son oreiller et il se coucha à cet endroit.` }, { number: 12, "text": `Il fit un rêve: une échelle était appuyée sur la terre et son sommet touchait le ciel; des anges de Dieu montaient et descendaient par cette échelle.` }, { number: 13, "text": `L'Eternel se tenait au-dessus d'elle, et il dit: «Je suis l'Eternel, le Dieu de ton grand-père Abraham et le Dieu d'Isaac. La terre sur laquelle tu es couché, je te la donnerai, à toi et à ta descendance.` }, { number: 14, "text": `Ta descendance sera pareille à la poussière de la terre: tu t'étendras à l'ouest et à l'est, au nord et au sud, et toutes les familles de la terre seront bénies en toi et en ta descendance.` },
           { number: 15, "text": `Je suis moi-même avec toi, je te garderai partout où tu iras et je te ramènerai dans ce pays, car je ne t'abandonnerai pas tant que je n’aurai pas accompli ce que je te dis.»` },
@@ -1173,6 +1214,7 @@ export const data = [
     chapter: 29,
     lectures: [
       {
+        id: 44,
         title: `Jacob à Charan`,
         verses: [
           { number: 1, "text": `Jacob se remit en marche et gagna la région des nomades de l’est.` }, { number: 2, "text": `Il regarda: il y avait un puits dans les champs et, à côté, trois troupeaux de brebis qui se reposaient, car c'était à ce puits qu'on faisait boire les troupeaux. La pierre placée sur l'ouverture du puits était grande.` }, { number: 3, "text": `Tous les troupeaux se rassemblaient là, on roulait la pierre de dessus l'ouverture du puits, on faisait boire les troupeaux et l'on remettait la pierre à sa place sur l'ouverture du puits` }, { number: 4, "text": `Jacob demanda aux bergers: «Mes frères, d'où êtes-vous?» Ils répondirent: «Nous sommes de Charan.» ` },
@@ -1185,10 +1227,12 @@ export const data = [
         ]
       },
       {
+        id: 45,
         title: `Léa et Rachel`,
         verses: []
       },
       {
+        id: 46,
         title: `Jacob habita un mois chez Laban`,
         verses: [
           { number: 15, "text": `puis ce dernier lui dit: «Parce que tu fais partie de ma parenté, devrais-tu me servir pour rien? Dis-moi quel sera ton salaire.» ` },
@@ -1198,7 +1242,9 @@ export const data = [
           { number: 22, "text": `Laban réunit tous les habitants de l'endroit et donna un festin.` }, { number: 23, "text": `Le soir, il prit sa fille Léa et l'amena vers Jacob qui s’unit à elle.` }, { number: 24, "text": `Laban donna sa servante Zilpa pour servante à sa fille Léa` }, { number: 25, "text": `Le lendemain matin, voilà que c'était Léa. Jacob dit alors à Laban: «Qu'est-ce que tu m'as fait? N'est-ce pas pour Rachel que j'ai servi chez toi? Pourquoi m'as-tu trompé?» ` },
           { number: 26, "text": `Laban dit: «Cela ne se fait pas, chez nous, de donner la plus jeune avant l'aînée.` }, { number: 27, "text": `Termine la semaine avec celle-ci et nous te donnerons aussi l'autre pour le service que tu feras encore chez moi pendant sept nouvelles années.» ` },
           { number: 28, "text": `C’est ce que fit Jacob: il termina la semaine avec Léa, puis Laban lui donna pour femme sa fille Rachel.` }, { number: 29, "text": `Laban donna sa servante Bilha pour servante à sa fille Rachel` }, { number: 30, "text": `Jacob s’unit aussi à Rachel, qu'il préférait même à Léa, et il servit encore chez Laban pendant sept nouvelles années` },]
-      }, {
+      },
+      {
+        id: 47,
         title: `Les enfants de Jacob`, verses: [
           { number: 31, "text": `L'Eternel vit que Léa n'était pas aimée, et il lui permit d’avoir des enfants, tandis que Rachel était stérile.` }, { number: 32, "text": `Léa tomba enceinte et mit au monde un fils qu’elle appela Ruben, car elle dit: «L'Eternel a vu mon humiliation et désormais mon mari m'aimera.» ` },
           { number: 33, "text": `Elle tomba encore enceinte et mit au monde un fils, et elle dit: «L'Eternel a entendu que je n'étais pas aimée et il m'a aussi accordé celui-ci.» Et elle lui donna le nom de Siméon.` }, { number: 34, "text": `Elle tomba encore enceinte et mit au monde un fils, et elle dit: «Cette fois-ci, mon mari s'attachera à moi, car je lui ai donné trois fils.» C'est pourquoi on l’appela Lévi.` }, { number: 35, "text": `Elle tomba encore enceinte et mit au monde un fils, et elle dit: «Cette fois, je célébrerai l'Eternel.» C'est pourquoi elle lui donna le nom de Juda. Puis elle cessa d'avoir des enfants` }
@@ -1210,6 +1256,7 @@ export const data = [
     chapter: 30,
     lectures: [
       {
+        id: 48,
         title: "",
         verses: [
           { number: 1, "text": `Lorsque Rachel vit qu'elle ne donnait pas d'enfants à Jacob, elle fut jalouse de sa sœur et dit à Jacob: «Donne-moi des enfants ou je meurs!» ` },
@@ -1223,6 +1270,7 @@ export const data = [
         ]
       },
       {
+        id: 49,
         title: `Départ de Jacob pour Canaan`,
         verses: [
           { number: 25, "text": `Après que Rachel eut donné naissance à Joseph, Jacob dit à Laban: «Laisse-moi partir pour que j’aille chez moi, dans mon pays.` }, { number: 26, "text": `Donne-moi mes femmes et mes enfants, pour lesquels je t'ai servi, et je m'en irai. Tu sais en effet quel service j'ai accompli pour toi.» ` },
@@ -1242,6 +1290,7 @@ export const data = [
     chapter: 31,
     lectures: [
       {
+        id: 50,
         title: "",
         verses: [
           { number: 1, "text": `Jacob entendit les propos des fils de Laban. Ils disaient: «Jacob a pris tout ce qui appartenait à notre père et c'est grâce aux biens de notre père qu'il s'est constitué toute cette richesse.» ` },
@@ -1253,7 +1302,9 @@ export const data = [
           { number: 16, "text": `Toute la richesse que Dieu a enlevée à notre père nous appartient, à nous et à nos enfants. Fais maintenant tout ce que Dieu t'a dit.»` },
           { number: 17, "text": `Jacob se leva donc et fit monter ses enfants et ses femmes sur les chameaux.` }, { number: 18, "text": `Il emmena tout son troupeau et tous les biens qu'il possédait, le troupeau qui lui appartenait, dont il était devenu propriétaire à Paddan-Aram, et il se rendit vers son père Isaac au pays de Canaan.` }, { number: 19, "text": `Laban était parti tondre ses brebis, et Rachel vola les théraphim[a] de son père.` }, { number: 20, "text": `De son côté, Jacob trompa Laban l'Araméen en ne l’avertissant pas de son départ ` },
           { number: 21, "text": `et s'enfuit avec tout ce qui lui appartenait. Il se leva, traversa l’Euphrate et se dirigea vers la région montagneuse de Galaad` },]
-      }, {
+      }, 
+      {
+        id: 51,
         title: `Jacob poursuivi par Laban`, verses: [
           { number: 22, "text": `Trois jours plus tard, on annonça à Laban que Jacob s'était enfui.` }, { number: 23, "text": `Il prit ses frères avec lui, le poursuivit durant sept jours de marche et le rattrapa dans la région montagneuse de Galaad.` }, { number: 24, "text": `Cependant, au cours de la nuit Dieu apparut en rêve à Laban l'Araméen et lui dit: «Garde-toi de parler à Jacob, que ce soit en bien ou en mal!» ` },
           { number: 25, "text": `Laban rattrapa donc Jacob alors que celui-ci avait planté sa tente sur la montagne. Laban planta aussi la sienne, avec ses frères, dans la région montagneuse de Galaad` }, { number: 26, "text": `Alors Laban dit à Jacob: «Qu'as-tu fait? Pourquoi m'as-tu trompé et emmènes-tu mes filles comme des prisonnières de guerre? ` },
@@ -1277,10 +1328,13 @@ export const data = [
     chapter: 32,
     lectures: [
       {
+        id: 52,
         title: "",
         verses: [
           { number: 1, "text": ` Laban se leva de bon matin, embrassa ses petits-enfants et ses filles et les bénit, puis il partit pour retourner chez lui` },]
-      }, {
+      }, 
+      {
+        id: 53,
         title: `Préparatifs de la rencontre avec Esaü`, verses: [
           { number: 2, "text": `Jacob poursuivit son chemin et des anges de Dieu vinrent à sa rencontre.` }, { number: 3, "text": `A leur vue, Jacob dit: «C'est le camp de Dieu!» et il appela cet endroit Mahanaïm` }, { number: 4, "text": `Jacob envoya devant lui des messagers à son frère Esaü dans le pays de Séir, dans le territoire d'Edom.` }, { number: 5, "text": `Il leur donna cet ordre: «Vous transmettrez ce message à mon seigneur Esaü: ‘Voici ce que dit ton serviteur Jacob: J'ai séjourné chez Laban et j'y suis resté jusqu'à maintenant.` }, { number: 6, "text": `J'ai des bœufs, des ânes, des brebis, des serviteurs et des servantes, et j'envoie des messagers te l'annoncer, mon seigneur, pour trouver grâce à tes yeux.’»` },
           { number: 7, "text": `Les messagers revinrent vers Jacob en disant: «Nous sommes allés trouver ton frère Esaü; il marche à ta rencontre avec 400 hommes.» ` },
@@ -1294,7 +1348,9 @@ export const data = [
           { number: 19, "text": `tu répondras: ‘A ton serviteur Jacob, c'est un cadeau envoyé à mon seigneur Esaü. Le voici qui vient lui-même derrière nous.’» ` },
           { number: 20, "text": `Il donna le même ordre au deuxième, au troisième et à tous ceux qui suivaient les troupeaux: «C'est ce message que vous transmettrez à mon seigneur Esaü quand vous le rencontrerez.` }, { number: 21, "text": `Vous annoncerez aussi: ‘Ton serviteur Jacob vient derrière nous.’» Il se disait en effet: «Je l'apaiserai par ce cadeau qui me précède. Ensuite je le verrai en face et peut-être m'accueillera-t-il favorablement.» ` },
           { number: 22, "text": `Le cadeau passa devant lui et il resta cette nuit-là dans le camp` }, { number: 23, "text": `Il se leva la même nuit, prit ses deux femmes, ses deux servantes et ses onze enfants et passa le gué du Jabbok.` }, { number: 24, "text": `Il les prit, leur fit passer le torrent et le fit passer à tout ce qui lui appartenait` },]
-      }, {
+      }, 
+      {
+        id: 54,
         title: `Jacob à Peniel`, verses: [
           { number: 25, "text": `Jacob resta seul. C’est alors qu’un homme lutta avec lui jusqu'au lever de l'aurore.` }, { number: 26, "text": `Voyant qu'il n'était pas vainqueur contre lui, cet homme le frappa à l'emboîture de la hanche. Celle-ci se déboîta pendant qu'il luttait avec lui.` }, { number: 27, "text": `Il dit: «Laisse-moi partir, car l'aurore se lève.» Jacob répondit: «Je ne te laisserai pas partir avant que tu ne m'aies béni.» ` },
           { number: 28, "text": `Il lui demanda: «Quel est ton nom?» Il répondit: «Jacob.» ` },
@@ -1313,6 +1369,7 @@ export const data = [
     chapter: 33,
     lectures: [
       {
+        id: 55,
         title: `Réconciliation entre Jacob et Esaü`,
         verses: [
           { number: 1, "text": `Jacob leva les yeux et regarda. Il constata qu’Esaü arrivait avec 400 hommes. Il répartit les enfants entre Léa, Rachel et les deux servantes.` }, { number: 2, "text": `Il plaça en tête les servantes avec leurs enfants, puis Léa avec ses enfants, enfin Rachel avec Joseph.` }, { number: 3, "text": `Lui-même passa devant eux et il se prosterna à terre sept fois, jusqu'à ce qu'il soit près de son frère.` }, { number: 4, "text": `Esaü courut à sa rencontre, l’étreignit, se jeta à son cou et l’embrassa. Et ils pleurèrent` }, { number: 5, "text": `Esaü leva les yeux, vit les femmes et les enfants et demanda: «Qui sont ceux-là pour toi?» Jacob répondit: «Ce sont les enfants que Dieu a accordés à ton serviteur.» ` },
@@ -1325,6 +1382,7 @@ export const data = [
         ]
       },
       {
+        id: 56,
         title: `La famille de Jacob à Sichem`,
         verses: [
           { number: 18, "text": `A son retour de Paddan-Aram, Jacob arriva sans encombre à la ville de Sichem, dans le pays de Canaan, et il installa son camp devant la ville.` }, { number: 19, "text": `Il acheta la portion du champ où il avait dressé sa tente aux fils de Hamor, le père de Sichem, pour 100 pièces d’argent, ` },
@@ -1337,6 +1395,7 @@ export const data = [
     chapter: 34,
     lectures: [
       {
+        id: 57,
         title: "",
         verses: [
           { number: 1, "text": `Dina, la fille que Léa avait donnée à Jacob, sortit pour voir les filles du pays.` }, { number: 2, "text": `Sichem, fils de Hamor, le prince du pays, la vit. Il l'enleva et coucha avec elle, il la viola.` }, { number: 3, "text": `Il s'attacha à Dina, la fille de Jacob; il aima cette jeune fille et parla à son cœur.` }, { number: 4, "text": `Sichem dit alors à son père Hamor: «Donne-moi cette jeune fille pour femme.» ` },
@@ -1355,6 +1414,7 @@ export const data = [
     chapter: 35,
     lectures: [
       {
+        id: 58,
         title: `Jacob à Béthel`,
         verses: [
           { number: 1, "text": `Dieu dit à Jacob: «Lève-toi, monte à Béthel et installe-toi là-bas. Tu y construiras un autel en l’honneur du Dieu qui t'est apparu lorsque tu fuyais ton frère Esaü.»` },
@@ -1364,6 +1424,7 @@ export const data = [
         ]
       },
       {
+        id: 59,
         title: `Naissance de Benjamin et mort de Rachel`,
         verses: [
           { number: 16, "text": `Ils partirent de Béthel. Il y avait encore une certaine distance jusqu'à Ephrata lorsque Rachel accoucha. Elle eut un accouchement pénible.` }, { number: 17, "text": `Pendant les douleurs de l'accouchement, la sage-femme lui dit: «N’aie pas peur, car tu as encore un fils!» ` },
@@ -1377,6 +1438,7 @@ export const data = [
     chapter: 36,
     lectures: [
       {
+        id: 60,
         title: `Origine d’Edom`,
         verses: [
           { number: 1, "text": `Voici la lignée d'Esaü, c’est-à-dire Edom.` }, { number: 2, "text": `Esaü avait épousé des femmes cananéennes: Ada, fille d'Elon le Hittite, et Oholibama, fille d'Ana et petite-fille de Tsibeon le Hévien, ` },
@@ -1395,6 +1457,7 @@ export const data = [
     chapter: 37,
     lectures: [
       {
+        id: 61,
         title: `Joseph vendu par ses frères`,
         verses: [
           { number: 1, "text": `Quant à Jacob, il s’installa dans le pays de Canaan, là où son père avait séjourné` }, { number: 2, "text": `Voici la lignée de Jacob. A l'âge de 17 ans, Joseph prenait soin du troupeau avec ses frères. Le garçon était en compagnie des fils de Bilha et de Zilpa, les femmes de son père, et il rapportait leurs mauvais propos à leur père.` }, { number: 3, "text": `Israël aimait Joseph plus que tous ses autres fils parce qu'il l'avait eu dans sa vieillesse, et il lui fit un habit de plusieurs couleurs.` }, { number: 4, "text": `Ses frères remarquèrent que leur père l'aimait plus qu'eux tous et se mirent à le détester. Ils étaient incapables de lui parler sans agressivité` }, { number: 5, "text": `Joseph fit un rêve, et il le raconta à ses frères qui le détestèrent encore plus.` }, { number: 6, "text": `Il leur dit: «Ecoutez donc le rêve que j'ai fait! ` },
@@ -1421,6 +1484,7 @@ export const data = [
     chapter: 38,
     lectures: [
       {
+        id: 62,
         title: `Juda et Tamar`,
         verses: [
           { number: 1, "text": `A cette époque-là, Juda s'éloigna de ses frères et se retira chez un homme d'Adullam appelé Hira.` }, { number: 2, "text": `Là, il vit la fille d'un Cananéen du nom de Shua; il la prit pour femme et eut des relations avec elle.` }, { number: 3, "text": `Elle tomba enceinte et mit au monde un fils qu'elle appela Er.` }, { number: 4, "text": `Elle tomba enceinte et donna naissance à un fils qu'elle appela Onan.` }, { number: 5, "text": `Elle mit de nouveau au monde un fils qu'elle appela Shéla. Juda était à Czib quand elle lui donna naissance` }, { number: 6, "text": `Juda prit pour Er, son fils aîné, une femme du nom de Tamar.` }, { number: 7, "text": `Er, le fils aîné de Juda, était méchant aux yeux de l'Eternel et celui-ci le fit mourir.` }, { number: 8, "text": `Alors Juda dit à Onan: «Unis-toi à la femme de ton frère, remplis tes devoirs de beau-frère envers elle et donne une descendance à ton frère.» ` },
@@ -1442,6 +1506,7 @@ export const data = [
     chapter: 39,
     lectures: [
       {
+        id: 63,
         title: `Joseph chez Potiphar`,
         verses: [
           { number: 1, "text": `Quant à Joseph, on l'avait fait descendre en Egypte et Potiphar, l’officier du pharaon qui était chef des gardes, un Egyptien, l’avait acheté aux Ismaélites qui l'y avaient fait descendre.` }, { number: 2, "text": `L'Eternel fut avec Joseph et la réussite l'accompagna. Il habitait dans la maison de son maître égyptien.` }, { number: 3, "text": `Son maître vit que l'Eternel était avec lui et que tout ce qu'il entreprenait, l'Eternel le faisait réussir entre ses mains, ` },
@@ -1455,6 +1520,7 @@ export const data = [
         ]
       },
       {
+        id: 64,
         title: `Joseph en prison`,
         verses: [
           { number: 21, "text": `L'Eternel fut avec Joseph et étendit sa bonté sur lui. Il lui fit gagner la faveur du chef de la prison.` }, { number: 22, "text": `Celui-ci plaça sous son autorité tous les détenus qui étaient dans la prison, et tout ce qu'on y faisait passait par lui.` }, { number: 23, "text": `Le chef de la prison ne s'occupait pas du tout de ce qui était sous la responsabilité de Joseph, parce que l'Eternel était avec lui et faisait réussir ce qu’il entreprenait` }
@@ -1466,6 +1532,7 @@ export const data = [
     chapter: 40,
     lectures: [
       {
+        id: 65,
         title: "",
         verses: [
           { number: 1, "text": `Après cela, le responsable des boissons et le boulanger du roi d'Egypte commirent une faute envers leur seigneur, le roi d'Egypte.` }, { number: 2, "text": `Le pharaon fut irrité contre ses deux officiers, le grand responsable des boissons et le chef des boulangers.` }, { number: 3, "text": `Il les fit mettre dans la maison du chef des gardes, dans la prison, à l'endroit où Joseph était enfermé.` }, { number: 4, "text": `Le chef des gardes les confia à Joseph, qui fit le service auprès d'eux. Ils passèrent un certain temps en prison` }, { number: 5, "text": `Une même nuit, le responsable des boissons et le boulanger du roi d'Egypte qui étaient enfermés dans la prison firent tous les deux un rêve, chacun le sien avec son explication propre.` }, { number: 6, "text": `Joseph vint le matin vers eux et vit qu'ils étaient tristes.` }, { number: 7, "text": `Alors il demanda aux officiers du pharaon qui étaient avec lui dans la prison de son maître: «Pourquoi avez-vous mauvaise mine aujourd'hui?» ` },
@@ -1485,6 +1552,7 @@ export const data = [
     chapter: 41,
     lectures: [
       {
+        id: 66,
         title: `Joseph devant le pharaon`,
         verses: [
           { number: 1, "text": `Au bout de 2 ans, le pharaon fit un rêve dans lequel il se tenait près du fleuve.` }, 
@@ -1526,6 +1594,7 @@ export const data = [
         ]
       },
       {
+        id: 67,
         title: `Joseph gouverneur de l'Egypte`,
         verses: [
           { number: 37, "text": `Ces paroles plurent au pharaon et à tous ses serviteurs.` }, 
@@ -1544,6 +1613,7 @@ export const data = [
         ]
       },
       {
+        id: 68,
         title: `Naissance de Manassé et d'Ephraïm`,
         verses: [
           { number: 50, "text": `Avant les années de famine, Joseph eut deux fils que lui donna Asnath, fille de Poti-Phéra, le prêtre d'On.` }, 
@@ -1566,6 +1636,7 @@ export const data = [
     chapter: 42,
     lectures: [
       {
+        id: 69,
         title: `Les frères de Joseph en Egypte`,
         verses: [
           { number: 1, "text": `Voyant qu'il y avait du blé en Egypte, Jacob dit à ses fils: «Pourquoi vous regardez-vous les uns les autres?» ` },
@@ -1614,6 +1685,7 @@ export const data = [
     chapter: 43,
     lectures: [
       {
+        id: 70,
         title: `Deuxième voyage des frères de Joseph en Egypte`,
         verses: [
           { number: 1, "text": `La famine pesait lourdement sur le pays.` }, 
@@ -1658,6 +1730,7 @@ export const data = [
     chapter: 44,
     lectures: [
       {
+        id: 71,
         title: `Mise à l’épreuve des frères de Joseph`,
         verses: [
           { number: 1, "text": `Joseph ordonna à son intendant: «Remplis de nourriture les sacs de ces hommes. Mets-en autant qu'ils pourront en porter et mets l'argent de chacun à l'entrée de son sac.` }, 
@@ -1702,6 +1775,7 @@ export const data = [
     chapter: 45,
     lectures: [
       {
+        id: 72,
         title: `Joseph reconnu par ses frères`,
         verses: [
           { number: 1, "text": `Joseph ne parvenait plus à se retenir devant tous ceux qui l'entouraient. Il s'écria: «Faites sortir tout le monde!» si bien qu’il ne resta plus personne avec lui quand il se fit reconnaître par ses frères.` }, 
@@ -1741,6 +1815,7 @@ export const data = [
     chapter: 46,
     lectures: [
       {
+        id: 73,
         title: `Jacob et sa famille en Egypte`,
         verses: [
           { number: 1, "text": `Israël partit donc avec tout ce qui lui appartenait. Arrivé à Beer-Shéba, il offrit des sacrifices au Dieu de son père Isaac.` }, 
@@ -1785,6 +1860,7 @@ export const data = [
     chapter: 47,
     lectures: [
       {
+        id: 74,
         title: `La famille de Jacob dans la région de Gosen`,
         verses: [
           { number: 1, "text": `Joseph alla avertir le pharaon et lui dit: «Mes frères et mon père sont venus du pays de Canaan avec leurs brebis, leurs bœufs et tout ce qui leur appartient; ils sont dans la région de Gosen.» ` },
@@ -1826,6 +1902,7 @@ export const data = [
     chapter: 48,
     lectures: [
       {
+        id: 75,
         title: `Jacob bénit les deux fils de Joseph`,
         verses: [
           { number: 1, "text": `Après cela, on vint dire à Joseph: «Ton père est malade.» Il prit avec lui ses deux fils Manassé et Ephraïm.` }, 
@@ -1858,6 +1935,7 @@ export const data = [
     chapter: 49,
     lectures: [
       {
+        id: 76,
         title: `Bénédiction et mort de Jacob`,
         verses: [
           { number: 1, "text": `Jacob appela ses fils et dit: «Rassemblez-vous et je vous annoncerai ce qui vous arrivera dans l’avenir` }, 
@@ -1865,6 +1943,7 @@ export const data = [
         ]
       },
       {
+        id: 77,
         title: `Ecoutez Israël, votre père!`,
         verses: [
           { number: 3, "text": `»Ruben, toi, mon aîné, toi qui es ma force et le premier de mes enfants, supérieur en dignité et en puissance,` },
@@ -1910,7 +1989,8 @@ export const data = [
     chapter: 50,
     lectures: [
       {
-        title: "",
+        id: 78,
+        title: "Ses funérailles dans le pays de Canaan",
         verses: [
           { number: 1, "text": `Joseph se jeta sur le visage de son père, pleura sur lui et l'embrassa.` },
           { number: 2, "text": `Il ordonna aux médecins qui étaient à son service d'embaumer son père, et les médecins embaumèrent Israël.` },
@@ -1936,6 +2016,7 @@ export const data = [
         ]
       },
       {
+        id: 79,
         title: `Mort de Joseph`,
         verses: [,
           { number: 22, "text": `Joseph habita en Egypte, ainsi que la famille de son père. Il vécut 110 ans.` },
