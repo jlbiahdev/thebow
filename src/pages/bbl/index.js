@@ -17,7 +17,7 @@ $(document).ready(() => {
     $('title').html('Bible - ' + bibleInfo.data.name);
 
     bibleIndex.index.forEach(index => {
-        $('.all-testaments').append(`
+        $('#all-testaments').append(`
             <div class='testament' id='${index.testament}'>
                 <div class='image-container'>
                     <img src='/src/resources/img/bible/${index.image}' alt=''>
@@ -33,7 +33,7 @@ $(document).ready(() => {
             var categoryId = categoryPrefix + category.id;
 
             $(`#all-categories`).append(`
-                <div class='category' id='${categoryId}' data-parent-id='${index.testament}'>
+                <div class='category' id='${categoryId}' data-class='category' data-parent-id='${index.testament}' data-container-id='categories'>
                     <div class='image-container'>
                         <img src='/src/resources/img/bible/${category.image}' alt=''>
                         <div class='name'>${category.name}</div>
@@ -44,7 +44,7 @@ $(document).ready(() => {
             category.books.forEach(book => {
                 // console.log('book', book.name)
                 $(`#all-books`).append(`
-                    <div class='book' id='bk-${book.key}' data-parent-id='${categoryId}'>
+                    <div class='book' id='bk-${book.key}' data-class='book' data-parent-id='${categoryId}' data-container-id='books'>
                         <div class='book-card'>
                             <img src='/src/resources/img/bible/${book.image}' alt=''>
                             <div class='data'>
@@ -54,40 +54,73 @@ $(document).ready(() => {
                         </div>
                     </div>`
                 );
-                // <i class="fa-solid fa-book-bible"></i>
                 book.chapters.forEach(chapter => {
                     var chapterId = chapterPrefix + chapter.chapter;
-                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-parent-id='bk-${book.key}'><div class='number'>${chapter.chapter}</div></div>`);
+                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-class='chapter' data-parent-id='bk-${book.key}' data-container-id='chapters'><div class='number'>${chapter.chapter}</div></div>`);
                 });
             });
         });
     })
 
-    // $('.testament').on('click', function (e) { e.stopPropagation(); $(`.categories[data-parent-id='${this.id}']`).toggle('show'); });
-    // $('.category').on('click', function (e) { e.stopPropagation(); $(`.books[data-parent-id='${this.id}']`).toggle('show'); });
-    // $('.book').on('click', function (e) { console.log('.book click', this.id); e.stopPropagation(); $(`.chapters[data-parent-id='${this.id}']`).toggle('show'); });
-
-    $('.testament').on('click', function (e) { e.stopPropagation(); toggle('#categories', '.category', this.id); });
-    $('.category').on('click', function (e) { e.stopPropagation(); toggle('#books', '.book', this.id); });
-    $('.book').on('click', function (e) { e.stopPropagation(); toggle('#chapters', '.chapter', this.id); });
+    $('.testament').on('click', function (e) { e.stopPropagation(); toggle('.category', this.id); });
+    $('.category').on('click', function (e) { e.stopPropagation(); toggle('.book', this.id); });
+    $('.book').on('click', function (e) { e.stopPropagation(); toggle('.chapter', this.id); });
     $('.chapter').on('click', function (e) { open_chapter(this.id); });
 });
 
-const toggle = (containerClassName, className, parentId) => {
-    // console.log('click', className)
-    var container = $(containerClassName);
-    var nodes = $(`${className}[data-parent-id='${parentId}']`);
-    var display = nodes.first().css('display') === 'flex' ? 'none' : 'flex';
+const displayType = 'flex';
+const displayNone = 'none';
 
-    nodes.css('display', display);
-    if (display == 'none') {
-        $(`[data-parent-id='${parentId}']`).css('display', display);
+const isDisplayed = (value) => {
+    // console.log(value)
+    return value === displayType;
+};
+
+const toggle = (className, parentId) => {
+    // console.log('click', 'containerClassName', containerClassName, 'className', className, 'parentId', parentId)
+    // var chapters = $('#all-chapters>div');
+
+    var classObjects = $(className);
+    var nodes = $(`${className}[data-parent-id='${parentId}']`);
+    var display = isDisplayed(nodes.first().css('display')) ? displayNone : displayType;
+
+    if (!isDisplayed(display)) {
+        // console.log('click', 'containerClassName', containerClassName, 'className', className, 'parentId', parentId)
+        clearChilds(parentId)
     }
 
-    var stillNodes = $(className).filter(function () { return $(this).css('display') === 'flex' });
+    classObjects.css('display', displayNone);
+    nodes.css('display', display);
+}
 
-    if (stillNodes.length && display === 'none') { return;}
-    container.css('display', display);
+const clearChilds = (parentId) => {
+    console.log('clearChilds', parentId)
+
+    var items = $(`[data-parent-id=${parentId}]`)
+    var className = '';
+    var containerName = '';
+
+    items.each((i, obj) => {
+        var node = $(obj);
+        if (isDisplayed(node.css('display'))) {
+            clearChilds(obj.id);
+            node.css('display', displayNone);
+            containerName = node.data('container-id');
+            className = node.data('class');
+        }
+    });
+
+    if (!containerName || !className) return;
+
+    var container = $('#' + containerName);
+    var classOjb = $('#' + className);
+
+    // console.log('container', containerName, 'className', className)
+    var empty = classOjb.filter(function () { return isDisplayed($(this).css('display')) });
+    // console.log('container.empty', containerName, className, empty.length)
+    // if (!empty.length) {
+    //     container.css('display', displayNone);
+    // }
 }
 
 const open_chapter = (id) => {
@@ -105,9 +138,6 @@ const open_chapter = (id) => {
         .books.find(e => e.key === bookId)
         .chapters.find(e => e.chapter === Number(chapterId))
         ;
-
-    // console.log('keys', keys, 'bible', bibleId, 'testament', testamentId, 'categorie', categorieId, 'book', bookId, 'chapter', chapterId)
-    // console.log('chapter', chapter)
 
     Commons.getHtmlFilePath(ChapterComponent.htmlFilePath).then(html => {
         $('head').append(`<link rel="stylesheet" href="${ChapterComponent.cssFilePath}">`);

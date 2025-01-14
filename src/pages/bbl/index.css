@@ -49,7 +49,7 @@
 
 
 /* ------------------------------------------- testaments -------------------------------------- */
-.all-testaments {
+#all-testaments {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
@@ -84,7 +84,7 @@
 
 /* ------------------------------------------- categories -------------------------------------- */
 #categories {
-    display: none;
+    display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
@@ -126,7 +126,7 @@
 
 /* ------------------------------------------- books ------------------------------------------- */
 #books {
-    display: none;
+    display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
@@ -199,7 +199,7 @@
 
 /* ------------------------------------------- chapters ---------------------------------------- */
 #chapters {
-    display: none;
+    display: flex;
     flex-direction: column;
     padding: 0;
     margin: 0;
@@ -221,7 +221,7 @@
     height: 15rem;
     overflow: scroll;
 
-    border: 1px solid var(--color-primary);
+    /* border: 1px solid var(--color-primary); */
 }
 
 .chapter {
