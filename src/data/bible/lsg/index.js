@@ -349,25 +349,25 @@ export const data = [
                     {
                         key: 'mat',
                         name: 'Matthieu',
-                        image: '.jpg',
+                        image: 'fotor-nt-1-matthew.jpg',
                         chapters: Matthew.data
                     },
                     {
                         key: 'mrk',
                         name: 'Marc',
-                        image: '.jpg',
+                        image: 'fotor-nt-2-mark.jpg',
                         chapters: Mark.data
                     },
                     {
                         key: 'luk',
                         name: 'Luc',
-                        image: '.jpg',
+                        image: 'fotor-nt-3-luke.jpg',
                         chapters: Luke.data
                     },
                     {
                         key: 'jhn',
                         name: 'Jean',
-                        image: '.jpg',
+                        image: 'fotor-nt-4-john.jpg',
                         chapters: John.data
                     },
                 ]
@@ -380,7 +380,7 @@ export const data = [
                     {
                         key: 'act',
                         name: 'Actes Des Apôtres',
-                        image: '.jpg',
+                        image: 'fotor-nt-5-acts.jpg',
                         chapters: Acts.data
                     },
                 ]
@@ -393,79 +393,79 @@ export const data = [
                     {
                         key: 'rom',
                         name: 'Romains',
-                        image: '.jpg',
+                        image: 'fotor-nt-6-romans.jpg',
                         chapters: Romans.data
                     },
                     {
                         key: '1co',
                         name: '1 Corinthiens',
-                        image: '.jpg',
+                        image: 'fotor-nt-7-corinthians.jpg',
                         chapters: Corinthians1.data
                     },
                     {
                         key: '2co',
                         name: '2 Corinthiens',
-                        image: '.jpg',
+                        image: 'fotor-nt-7-corinthians.jpg',
                         chapters: Corinthians2.data
                     },
                     {
                         key: 'gal',
                         name: 'Galates',
-                        image: '.jpg',
+                        image: 'fotor-nt-9-galatians.jpg',
                         chapters: Galatians.data
                     },
                     {
                         key: 'eph',
                         name: 'Ephésiens',
-                        image: '.jpg',
+                        image: 'fotor-nt-10-ephesians.jpg',
                         chapters: Ephesians.data
                     },
                     {
                         key: 'php',
                         name: 'Philippiens',
-                        image: '.jpg',
+                        image: 'fotor-nt-11-philippians.jpg',
                         chapters: Philippians.data
                     },
                     {
                         key: 'col',
                         name: 'Colossiens',
-                        image: '.jpg',
+                        image: 'fotor-nt-12-colossians.jpg',
                         chapters: Colossians.data
                     },
                     {
                         key: '1th',
                         name: '1 Thessaloniciens',
-                        image: '.jpg',
+                        image: 'fotor-nt-13-thessalonians.jpg',
                         chapters: Thessalonians1.data
                     },
                     {
                         key: '2th',
                         name: '2 Thessaloniciens',
-                        image: '.jpg',
+                        image: 'fotor-nt-13-thessalonians.jpg',
                         chapters: Thessalonians2.data
                     },
                     {
                         key: '1ti',
                         name: '1 Timothée',
-                        image: '.jpg',
+                        image: 'fotor-nt-15-timothy.jpg',
                         chapters: Timothy1.data
                     },
                     {
                         key: '2ti',
                         name: '2 Timothée',
-                        image: '.jpg',
+                        image: 'fotor-nt-15-timothy.jpg',
                         chapters: Timothy2.data
                     },
                     {
                         key: 'tit',
                         name: 'Tite',
-                        image: '.jpg',
+                        image: 'fotor-nt-17-titus_2.jpg',
                         chapters: Titus.data
                     },
                     {
                         key: 'phm',
                         name: 'Philémon',
-                        image: '.jpg',
+                        image: 'fotor-nt-18-philemon.jpg',
                         chapters: Philemon.data
                     },
                 ]
@@ -478,49 +478,49 @@ export const data = [
                     {
                         key: 'heb',
                         name: 'Hébreux',
-                        image: '.jpg',
+                        image: 'fotor-nt-19-hebrews.jpg',
                         chapters: Hebrews.data
                     },
                     {
                         key: 'jas',
                         name: 'Jacques',
-                        image: '.jpg',
+                        image: 'fotor-nt-20-james.jpg',
                         chapters: James.data
                     },
                     {
                         key: '1pe',
                         name: '1 Pierre',
-                        image: '.jpg',
+                        image: 'fotor-nt-21-peter.jpg',
                         chapters: Peter1.data
                     },
                     {
                         key: '2pe',
                         name: '2 Pierre',
-                        image: '.jpg',
+                        image: 'fotor-nt-21-peter.jpg',
                         chapters: Peter2.data
                     },
                     {
                         key: '1jn',
                         name: '1 Jean',
-                        image: '.jpg',
+                        image: 'fotor-nt-23-john.jpg',
                         chapters: John1.data
                     },
                     {
                         key: '2jn',
                         name: '2 Jean',
-                        image: '.jpg',
+                        image: 'fotor-nt-23-john.jpg',
                         chapters: John2.data
                     },
                     {
                         key: '3jn',
                         name: '3 Jean',
-                        image: '.jpg',
+                        image: 'fotor-nt-23-john.jpg',
                         chapters: John3.data
                     },
                     {
                         key: 'jud',
                         name: 'Jude',
-                        image: '.jpg',
+                        image: 'fotor-nt-26-jude.jpg',
                         chapters: Jude.data
                     },
                 ]
@@ -533,7 +533,7 @@ export const data = [
                     {
                         key: 'rev',
                         name: 'Apocalypse',
-                        image: '.jpg',
+                        image: 'fotor-nt-27-revelation.jpg',
                         chapters: Revelation.data
                     },
                 ]
