@@ -52,7 +52,7 @@
 
     --color-border: #ced4da;
 
-    --color-white: #fff;
+    --color-white: #ffffff;
     --color-dark-text: #f8f9fa;
     --color-light-text: #495057;
     --color-default: #0d6efd;
@@ -60,6 +60,8 @@
     --color-success: #198754;
     --color-warning:  #ffc107;
     --color-info:    #0dcaf0;
+    --color-hover: #ccd5ae;
+    --color-background: #eeddd3;
 
     --color-indigo:  #6610f2;
     --color-purple:  #6f42c1;
@@ -73,7 +75,7 @@
 html {
     font-size: 90.5%;
     overflow-x: hidden;
-    background-color: #eeddd3;
+    background-color: var(--color-background);
     
 }
 
@@ -160,6 +162,31 @@ header {
     height: auto;
     margin: 0 auto;
     /* border: 1px solid green; */
+}
+
+/* ------------------------------------------- breadcrumb -------------------------------------- */
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 1rem 0;
+    padding: 0;
+    align-items: end;
+}
+
+.breadcrumb .breadcrumb-item a {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.breadcrumb .breadcrumb-item:not(:last-child) a {
+    color: var(--color-secondary);
+}
+  
+.breadcrumb .breadcrumb-item:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 0.25rem;
+    content: "/";
 }
 
 /* ------------------------------------------- common ------------------------------------------ */

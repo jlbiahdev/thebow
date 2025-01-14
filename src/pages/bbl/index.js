@@ -3,9 +3,14 @@ import * as Commons from '../../resources/js/common.js';
 import * as Presentations from '../../data/presentations/index.js';
 import * as BibleIndexes from '../../data/bible/index.js';
 import * as ChapterComponent from '../../components/chapter_view/index.js';
+import * as ChapterMenuComponent from '../../components/chapter_select_menu/index.js';
+import * as ChapterSelectionComponent from '../../components/chapter_selection/index.js';
 
 const categoryPrefix = 'ktgr';
 const chapterPrefix = 'cptr';
+
+var ChapterComponent_Html = '';
+var ChapterMenuComponent_Html = '';
 
 $(document).ready(() => {
     var key = Cookies.getCookie(Cookies.COOKIES.SELECTED_BIBLE);
@@ -15,38 +20,35 @@ $(document).ready(() => {
     // console.log('key', key, 'bibleInfo', bibleInfo, 'BibleIndex', bibleIndex)
 
     $('title').html('Bible - ' + bibleInfo.data.name);
+    $('.breadcrumb .breadcrumb-item.active').text(bibleInfo.data.name);
 
     bibleIndex.index.forEach(index => {
         $('#all-testaments').append(`
-            <div class='testament' id='${index.testament}'>
+            <div class='testament' id='${index.testament}' data-container-id='all-testaments'>
                 <div class='image-container'>
-                    <img src='/src/resources/img/bible/${index.image}' alt=''>
+                    <img src='${Commons.BibleImagesFolder}${index.image}' alt=''>
                     <div class='name'>${index.name}</div>
                 </div>
             </div>`
         );
-        // console.log('categories', index.categories)
-        // $('#all-categories').append(`<div class='categories' data-parent-id='${index.testament}'></div>`);
 
         index.categories.forEach(category => {
-            // console.log('category :', category.name)
             var categoryId = categoryPrefix + category.id;
 
             $(`#all-categories`).append(`
-                <div class='category' id='${categoryId}' data-class='category' data-parent-id='${index.testament}' data-container-id='categories'>
+                <div class='category' id='${categoryId}' data-class='category' data-parent-id='${index.testament}' data-container-id='all-categories'>
                     <div class='image-container'>
-                        <img src='/src/resources/img/bible/${category.image}' alt=''>
+                        <img src='${Commons.BibleImagesFolder}${category.image}' alt=''>
                         <div class='name'>${category.name}</div>
                     </div>
                 </div>`
             );
 
             category.books.forEach(book => {
-                // console.log('book', book.name)
                 $(`#all-books`).append(`
-                    <div class='book' id='bk-${book.key}' data-class='book' data-parent-id='${categoryId}' data-container-id='books'>
+                    <div class='book' id='bk-${book.key}' data-class='book' data-parent-id='${categoryId}' data-container-id='all-books'>
                         <div class='book-card'>
-                            <img src='/src/resources/img/bible/${book.image}' alt=''>
+                            <img src='${Commons.BibleImagesFolder}${book.image}' alt=''>
                             <div class='data'>
                                 <div class='name'>${book.name}</div>
                                 <div class='count'>${book.chapters.length} chapitre(s)</div>
@@ -56,75 +58,122 @@ $(document).ready(() => {
                 );
                 book.chapters.forEach(chapter => {
                     var chapterId = chapterPrefix + chapter.chapter;
-                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-class='chapter' data-parent-id='bk-${book.key}' data-container-id='chapters'><div class='number'>${chapter.chapter}</div></div>`);
+                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-class='chapter' data-parent-id='bk-${book.key}' data-container-id='all-chapters'><div class='number'>${chapter.chapter}</div></div>`);
                 });
             });
         });
     })
 
+    Commons.getHtmlFilePath(ChapterSelectionComponent.htmlFilePath)
+    .then(html => {
+        $('head').append(`<link rel="stylesheet" href="${ChapterSelectionComponent.cssFilePath}">`);
+        $('.container .content .filtered .data').append(html);
+    })
+    .then(() => {
+        ChapterSelectionComponent.init(open_chapter);
+    });
+
+    $(document).on('click', function (e) { e.stopPropagation(); killChildren(); });
     $('.testament').on('click', function (e) { e.stopPropagation(); toggle('.category', this.id); });
     $('.category').on('click', function (e) { e.stopPropagation(); toggle('.book', this.id); });
     $('.book').on('click', function (e) { e.stopPropagation(); toggle('.chapter', this.id); });
-    $('.chapter').on('click', function (e) { open_chapter(this.id); });
+    $('.chapter').on('click', function (e) { e.stopPropagation(); chapter_clicked(this.id); });
 });
 
 const displayType = 'flex';
 const displayNone = 'none';
 
 const isDisplayed = (value) => {
-    // console.log(value)
     return value === displayType;
 };
 
+const allTestamentContainerKey = '';
+const allCategoriesContainerKey = 'all-categories';
+const allBooksContainerKey = 'all-books';
+const allChaptersContainerKey = 'all-chapters';
+
+const killChildren = () => {
+    // console.log('BiblePage.killChildren')
+    ChapterMenuComponent.remove();
+}
+
+const chapter_clicked = (id) => {
+    // console.log('chapter_clicked', id)
+    ChapterMenuComponent.remove();
+
+    if (ChapterMenuComponent_Html) {
+        $(document.documentElement).append(ChapterMenuComponent_Html);
+        ChapterMenuComponent.init(id, chapter_menu_clicked);
+    } else {
+        Commons.getHtmlFilePath(ChapterMenuComponent.htmlFilePath)
+        .then(html => {
+            ChapterMenuComponent_Html = html;
+            $('head').append(`<link rel="stylesheet" href="${ChapterMenuComponent.cssFilePath}">`);
+            $(document.documentElement).append(ChapterMenuComponent_Html);
+        })
+        .then(() => {
+            ChapterMenuComponent.init(id, chapter_menu_clicked);
+        });
+    }
+}
+
+const chapter_menu_clicked = (chapterNum, action) => {
+    switch (action) {
+        case 'open':
+            open_chapter(chapterNum);
+            break;
+        default:
+            var keys = chapterNum.split('-');
+            var bibleId = keys[4];
+            var testamentId = keys[3];
+            var categorieId = keys[2].replace(categoryPrefix, '');
+            var bookId = keys[1];
+            var chapterId = keys[0].replace(chapterPrefix, '');
+            var book = BibleIndexes.
+                data.find(i => i.key === bibleId)
+                .index.find(e => e.testament === testamentId)
+                .categories.find(e => e.id === categorieId)
+                .books.find(e => e.key === bookId);
+            var chapter = book.chapters.find(e => e.chapter === Number(chapterId));
+            ChapterSelectionComponent.add({ id: chapterNum, book: { key: book.key, name: book.name, image: book.image}, chapter: chapter })
+            break;
+    }
+}
+
 const toggle = (className, parentId) => {
-    // console.log('click', 'containerClassName', containerClassName, 'className', className, 'parentId', parentId)
-    // var chapters = $('#all-chapters>div');
+    // console.log('click', 'className', className, 'parentId', parentId)
+    var categories = $(`#${allCategoriesContainerKey}>div`);
+    var books = $(`#${allBooksContainerKey}>div`);
+    var chapters = $(`#${allChaptersContainerKey}>div`);
 
     var classObjects = $(className);
+    var trigger = $(`#${parentId}`);
     var nodes = $(`${className}[data-parent-id='${parentId}']`);
+    var containerKey = trigger.data('container-id');
     var display = isDisplayed(nodes.first().css('display')) ? displayNone : displayType;
 
-    if (!isDisplayed(display)) {
-        // console.log('click', 'containerClassName', containerClassName, 'className', className, 'parentId', parentId)
-        clearChilds(parentId)
+    switch (containerKey) {
+        case allBooksContainerKey:
+            chapters.css('display', displayNone);
+            break;
+        case allCategoriesContainerKey:
+            chapters.css('display', displayNone);
+            books.css('display', displayNone);
+            break;
+        default:
+            chapters.css('display', displayNone);
+            books.css('display', displayNone);
+            categories.css('display', displayNone);
+            break;
     }
 
     classObjects.css('display', displayNone);
     nodes.css('display', display);
 }
 
-const clearChilds = (parentId) => {
-    console.log('clearChilds', parentId)
-
-    var items = $(`[data-parent-id=${parentId}]`)
-    var className = '';
-    var containerName = '';
-
-    items.each((i, obj) => {
-        var node = $(obj);
-        if (isDisplayed(node.css('display'))) {
-            clearChilds(obj.id);
-            node.css('display', displayNone);
-            containerName = node.data('container-id');
-            className = node.data('class');
-        }
-    });
-
-    if (!containerName || !className) return;
-
-    var container = $('#' + containerName);
-    var classOjb = $('#' + className);
-
-    // console.log('container', containerName, 'className', className)
-    var empty = classOjb.filter(function () { return isDisplayed($(this).css('display')) });
-    // console.log('container.empty', containerName, className, empty.length)
-    // if (!empty.length) {
-    //     container.css('display', displayNone);
-    // }
-}
 
 const open_chapter = (id) => {
-    // console.log(id)
+    console.log('open_chapter', id)
     var keys = id.split('-');
     var bibleId = keys[4];
     var testamentId = keys[3];
@@ -139,11 +188,17 @@ const open_chapter = (id) => {
         .chapters.find(e => e.chapter === Number(chapterId))
         ;
 
-    Commons.getHtmlFilePath(ChapterComponent.htmlFilePath).then(html => {
-        $('head').append(`<link rel="stylesheet" href="${ChapterComponent.cssFilePath}">`);
-        $(document.documentElement).append(html);
-    })
-    .then(() => {
+    if (ChapterComponent_Html) {
+        $(document.documentElement).append(ChapterComponent_Html);
         ChapterComponent.init(chapter);
-    });
+    } else {
+        Commons.getHtmlFilePath(ChapterComponent.htmlFilePath).then(html => {
+            ChapterComponent_Html = html;
+            $('head').append(`<link rel="stylesheet" href="${ChapterComponent.cssFilePath}">`);
+            $(document.documentElement).append(ChapterComponent_Html);
+        })
+        .then(() => {
+            ChapterComponent.init(chapter);
+        });
+    }
 }

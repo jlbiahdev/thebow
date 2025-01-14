@@ -1,5 +1,6 @@
 import * as Cookies from './cookies.js';
 
+export const BibleImagesFolder = '/src/resources/img/bible/';
 export const BIBLE_KEYS = {
     Archeo: 'archeo',
     BoJ: 'boj',

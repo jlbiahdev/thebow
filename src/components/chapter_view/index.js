@@ -1,5 +1,5 @@
 import * as LectureComponent from '../lecture_view/index.js';
-import * as LectureButtonComponent from '../lecture_button_view/index.js';
+import * as LectureButtonComponent from '../lecture_button/index.js';
 import * as Commons from '../../resources/js/common.js';
 
 var lectures = [];

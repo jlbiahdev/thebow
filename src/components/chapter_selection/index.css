@@ -1,0 +1,10 @@
+#selected-chapters {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: .1rem;
+
+    justify-content: start;
+    /* border: 1px solid green; */
+}

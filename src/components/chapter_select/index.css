@@ -1,0 +1,41 @@
+.chapter-select {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    /* width: 45%; */
+    /* height: 10rem; */
+    /* padding: 1rem; */
+
+    border: 1px solid var(--color-border);
+}
+
+.chapter-select img {
+    width: 100%;
+}
+
+.chapter-select .data {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.chapter-select .book-name {
+    padding-left: .5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+
+    /* border: 1px solid green; */
+}
+
+.chapter-select .chapters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .2rem;
+
+    align-items: start;
+    align-content: start;
+    justify-content: start;
+
+    padding: .1rem;
+    /* border: 1px solid green; */
+}

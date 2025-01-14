@@ -1,0 +1,25 @@
+#chapter-menu {
+    position: absolute;
+    z-index: 666;
+
+    background-color: var(--color-white);
+    border: 1px solid var(--color-border);
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+#chapter-menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#chapter-menu ul li {
+    cursor: pointer;
+    text-transform: capitalize;
+    font-weight: 300;
+}
+
+#chapter-menu ul li:hover {
+    font-weight: bold;
+}
