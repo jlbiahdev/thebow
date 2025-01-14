@@ -1,8 +1,11 @@
 .shadow .card .buttons {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     gap: 1rem;
     
     padding: 1rem;
+
+    /* border: 1px solid red; */
 }
 

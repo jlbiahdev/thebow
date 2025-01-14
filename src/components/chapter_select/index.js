@@ -41,7 +41,7 @@ export const init = () => {
 }
 
 const chapter_removed = (book_key) => {
-    console.log('chapter_removed', book_key, ChaptersComponent(book_key).is(':empty'), ChaptersComponent(book_key))
+    // console.log('chapter_removed', book_key, ChaptersComponent(book_key).is(':empty'), ChaptersComponent(book_key))
 
     if (ChaptersComponent(book_key).is(':empty')) {
         Component(book_key).remove();

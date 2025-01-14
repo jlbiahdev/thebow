@@ -9,11 +9,11 @@ export const cssFilePath = '/src/components/chapter_selection/index.css';
 export const htmlFilePath = '/src/components/chapter_selection/index.html';
 
 export const add = (chapter) => {
-    console.log('ChapterSelectionComponent.add chapter', chapter.id)
+    // console.log('ChapterSelectionComponent.add chapter', chapter.id)
     var contains = ChapterComponent.contains(chapter.id);
 
     if (contains) return;
-    console.log('contains', contains)
+    // console.log('contains', contains)
 
     var chapterExists = ChapterComponent.exists(chapter);
 

@@ -173,7 +173,7 @@ const toggle = (className, parentId) => {
 
 
 const open_chapter = (id) => {
-    console.log('open_chapter', id)
+    // console.log('open_chapter', id)
     var keys = id.split('-');
     var bibleId = keys[4];
     var testamentId = keys[3];
