@@ -4,6 +4,9 @@ import * as Presentations from '../../data/presentations/index.js';
 import * as BibleIndexes from '../../data/bible/index.js';
 import * as ChapterComponent from '../../components/chapter_view/index.js';
 
+const categoryPrefix = 'ktgr';
+const chapterPrefix = 'cptr';
+
 $(document).ready(() => {
     var key = Cookies.getCookie(Cookies.COOKIES.SELECTED_BIBLE);
     var bibleInfo = Presentations.data.find(p => p.key === key);
@@ -27,9 +30,10 @@ $(document).ready(() => {
 
         index.categories.forEach(category => {
             // console.log('category :', category.name)
+            var categoryId = categoryPrefix + category.id;
 
             $(`#all-categories`).append(`
-                <div class='category' id='${category.id}' data-parent-id='${index.testament}'>
+                <div class='category' id='${categoryId}' data-parent-id='${index.testament}'>
                     <div class='image-container'>
                         <img src='/src/resources/img/bible/${category.image}' alt=''>
                         <div class='name'>${category.name}</div>
@@ -40,7 +44,7 @@ $(document).ready(() => {
             category.books.forEach(book => {
                 // console.log('book', book.name)
                 $(`#all-books`).append(`
-                    <div class='book' id='bk-${book.key}' data-parent-id='${category.id}'>
+                    <div class='book' id='bk-${book.key}' data-parent-id='${categoryId}'>
                         <div class='book-card'>
                             <img src='/src/resources/img/bible/${book.image}' alt=''>
                             <div class='data'>
@@ -52,9 +56,9 @@ $(document).ready(() => {
                 );
                 // <i class="fa-solid fa-book-bible"></i>
                 book.chapters.forEach(chapter => {
-                    $(`#all-chapters`).append(`<div class='chapter' id='${chapter.chapter}-${book.key}-${category.id}-${index.testament}-${key}' data-parent-id='bk-${book.key}'><div class='number'>${chapter.chapter}</div></div>`);
+                    var chapterId = chapterPrefix + chapter.chapter;
+                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-parent-id='bk-${book.key}'><div class='number'>${chapter.chapter}</div></div>`);
                 });
-                // $(`.book[data-parent-id='${category.id}']`).hover(function() { $(`.book[data-parent-id='${category.id}']`).addClass(category.id)});
             });
         });
     })
@@ -75,15 +79,11 @@ const toggle = (containerClassName, className, parentId) => {
     var nodes = $(`${className}[data-parent-id='${parentId}']`);
     var display = nodes.first().css('display') === 'flex' ? 'none' : 'flex';
 
-    console.log('nodes', $(`[data-parent-id='${parentId}']`));
-    // console.log('nodes.first()', nodes.first().css('display'));
-    // console.log('display', display);
-
     nodes.css('display', display);
     if (display == 'none') {
         $(`[data-parent-id='${parentId}']`).css('display', display);
     }
-    
+
     var stillNodes = $(className).filter(function () { return $(this).css('display') === 'flex' });
 
     if (stillNodes.length && display === 'none') { return;}
@@ -95,9 +95,9 @@ const open_chapter = (id) => {
     var keys = id.split('-');
     var bibleId = keys[4];
     var testamentId = keys[3];
-    var categorieId = keys[2];
+    var categorieId = keys[2].replace(categoryPrefix, '');
     var bookId = keys[1];
-    var chapterId = keys[0];
+    var chapterId = keys[0].replace(chapterPrefix, '');
     var chapter = BibleIndexes.
         data.find(i => i.key === bibleId)
         .index.find(e => e.testament === testamentId)

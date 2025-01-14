@@ -5,6 +5,8 @@ import * as VerseComponent from '../verse_view/index.js';
 export const cssFilePath = '/src/components/lecture_view/index.css';
 export const htmlFilePath = '/src/components/lecture_view/index.html';
 
+const lecturePrefix = 'lc';
+
 export const init = (lecture) => {
     // console.log(`LectureComponent.init()`, lecture.id, lecture)
 
@@ -12,9 +14,10 @@ export const init = (lecture) => {
         $('head').append(`<link rel="stylesheet" href="${VerseComponent.cssFilePath}">`);
 
         lecture.verses.forEach(item => {
-            $(`#${lecture.id} .verses`).append(html
+            // console.log('LectureComponent.init::lecture', item)
+            $(`#${lecturePrefix + lecture.id} .verses`).append(html
                 .replaceAll('{verse_number}', item.number)
-                .replaceAll('{verse_text}', item.text)
+                .replace('{verse_text}', item.text)
             );
         });
     })

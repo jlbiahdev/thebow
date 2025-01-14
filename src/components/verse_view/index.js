@@ -1,6 +1,8 @@
 
 import * as Commons from '../../resources/js/common.js';
 
+const versPrefix = 'vs';
+
 export const cssFilePath = '/src/components/verse_view/index.css';
 export const htmlFilePath = '/src/components/verse_view/index.html';
 

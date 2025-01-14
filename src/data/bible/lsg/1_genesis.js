@@ -130,7 +130,7 @@ export const data = [
     lectures: [
       {
         id: 6,
-        title: "",
+        title: "Caïn et Abel",
         verses: [
           { number: 1, "text": `Adam eut des relations conjugales avec sa femme Eve. Elle tomba enceinte et mit au monde Caïn. Elle dit: «J'ai donné vie à un homme avec l'aide de l'Eternel.» ` },
           { number: 2, "text": `Elle mit encore au monde le frère de Caïn, Abel. Abel fut berger et Caïn fut cultivateur` },
@@ -173,7 +173,7 @@ export const data = [
     lectures: [
       {
         id: 8,
-        title: "",
+        title: "Postérité d'Adam par Seth jusqu'à Noé",
         verses: [
           { number: 1, "text": `Voici le livre de l’histoire d'Adam. Lorsque Dieu créa l'homme, il le fit à la ressemblance de Dieu.` },
           { number: 2, "text": `*Il créa l'homme et la femme[a] et les bénit. Il les appela êtres humains lorsqu'ils furent créés` },

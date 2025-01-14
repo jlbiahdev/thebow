@@ -15,6 +15,7 @@ export const init = (chapter) => {
 
         chapter.lectures.forEach(item => {
             $('.shadow .card .buttons').append(html
+                .replaceAll('{chapter_id}', chapter.chapter)
                 .replaceAll('{lecture_id}', item.id)
                 .replaceAll('{lecture_title}', item.title)
                 .replaceAll('{lecture_versescount}', item.verses.length)
@@ -34,13 +35,18 @@ export const init = (chapter) => {
 const lecture_buttoniclicked = (id) => {
     // console.log('lecture_buttoniclicked', lectures, lectures.find(item => item.id === Number(id)))
 
-    $('.shadow .card .lecture').empty();
+    var target = $('.shadow .card .lecture');
+    // target.hide(500, function(){ target.empty(); target.show(500, () => {});});
+
     Commons.getHtmlFilePath(LectureComponent.htmlFilePath).then(html => {
         $('head').append(`<link rel="stylesheet" href="${LectureComponent.cssFilePath}">`);
-        $('.shadow .card .lecture').append(html.replaceAll('{lecture_id}', id));
+        target.html(html.replaceAll('{lecture_id}', id));
     })
     .then(() => {
-        LectureComponent.init(lectures.find(item => item.id === Number(id)));
-    });
+        var items = lectures.find(item => item.id === Number(id));
 
+        // console.log('items', items)
+        LectureComponent.init(items);
+    });
+ 
 }
