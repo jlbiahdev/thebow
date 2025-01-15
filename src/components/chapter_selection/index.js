@@ -9,7 +9,7 @@ export const cssFilePath = '/src/components/chapter_selection/index.css';
 export const htmlFilePath = '/src/components/chapter_selection/index.html';
 
 export const add = (chapter) => {
-    // console.log('ChapterSelectionComponent.add chapter', chapter.id)
+    console.log('ChapterSelectionComponent.add chapter', chapter)
     var contains = ChapterComponent.contains(chapter.id);
 
     if (contains) return;

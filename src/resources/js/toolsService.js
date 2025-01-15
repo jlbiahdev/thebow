@@ -20,11 +20,11 @@ export const Build = () => {
 
         bk.chapters.forEach(chapter => {
             var count = 0;
-            var cptr = { id: chapter.index, verses: []}
+            var cptr = { id: chapter.index, lectures: [ { id: 1, title: ``, verses: [] },  { id: 2, title: ``, verses: [] },  { id: 3, title: ``, verses: [] } ]}
             book.chapters.push(cptr);
 
             while(count < chapter.verses) {
-                cptr.verses.push({
+                cptr.lectures[0].verses.push({
                     id: count++,
                     text: ``,
                     footnote: [ ``, `` ]

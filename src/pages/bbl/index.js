@@ -57,8 +57,8 @@ $(document).ready(() => {
                     </div>`
                 );
                 book.chapters.forEach(chapter => {
-                    var chapterId = chapterPrefix + chapter.chapter;
-                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-class='chapter' data-parent-id='bk-${book.key}' data-container-id='all-chapters'><div class='number'>${chapter.chapter}</div></div>`);
+                    var chapterId = chapterPrefix + chapter.id;
+                    $(`#all-chapters`).append(`<div class='chapter' id='${chapterId}-${book.key}-${categoryId}-${index.testament}-${key}' data-class='chapter' data-parent-id='bk-${book.key}' data-container-id='all-chapters'><div class='number'>${chapter.id}</div></div>`);
                 });
             });
         });
@@ -134,7 +134,7 @@ const chapter_menu_clicked = (chapterNum, action) => {
                 .index.find(e => e.testament === testamentId)
                 .categories.find(e => e.id === categorieId)
                 .books.find(e => e.key === bookId);
-            var chapter = book.chapters.find(e => e.chapter === Number(chapterId));
+            var chapter = book.chapters.find(e => e.id === Number(chapterId));
             ChapterSelectionComponent.add({ id: chapterNum, book: { key: book.key, name: book.name, image: book.image}, chapter: chapter })
             break;
     }
@@ -173,7 +173,7 @@ const toggle = (className, parentId) => {
 
 
 const open_chapter = (id) => {
-    // console.log('open_chapter', id)
+    console.log('open_chapter', id)
     var keys = id.split('-');
     var bibleId = keys[4];
     var testamentId = keys[3];
@@ -185,9 +185,10 @@ const open_chapter = (id) => {
         .index.find(e => e.testament === testamentId)
         .categories.find(e => e.id === categorieId)
         .books.find(e => e.key === bookId)
-        .chapters.find(e => e.chapter === Number(chapterId))
+        .chapters.find(e => e.id === Number(chapterId))
         ;
 
+    console.log('open_chapter.chapter', chapter)
     if (ChapterComponent_Html) {
         $(document.documentElement).append(ChapterComponent_Html);
         ChapterComponent.init(chapter);

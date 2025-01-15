@@ -8,14 +8,14 @@ export const cssFilePath = '/src/components/chapter_view/index.css';
 export const htmlFilePath = '/src/components/chapter_view/index.html';
 
 export const init = (chapter) => {
-    // console.log(`ChapterComponent.init()`, chapter)
+    console.log(`ChapterComponent.init()`, chapter)
 
     Commons.getHtmlFilePath(LectureButtonComponent.htmlFilePath).then(html => {
         $('head').append(`<link rel="stylesheet" href="${LectureButtonComponent.cssFilePath}">`);
 
         chapter.lectures.forEach(item => {
             $('.shadow .card .buttons').append(html
-                .replaceAll('{chapter_id}', chapter.chapter)
+                .replaceAll('{chapter_id}', chapter.id)
                 .replaceAll('{lecture_id}', item.id)
                 .replaceAll('{lecture_title}', item.title)
                 .replaceAll('{lecture_versescount}', item.verses.length)

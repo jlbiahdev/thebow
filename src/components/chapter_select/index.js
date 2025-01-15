@@ -17,18 +17,18 @@ export const exists = (chapter) => Component(chapter.book.key).length;
 export const contains = (chapterId) => ChapterCardComponent.exists(chapterId);
 
 export const add = (chapter, callback) => {
-    // console.log(`ChapterSelectComponent.add()`, chapter)
+    console.log(`ChapterSelectComponent.add()`, chapter)
 
     // Component(chapter.book.key).empty()
     ImageComponent(chapter.book.key).attr("src", Commons.BibleImagesFolder + chapter.book.image);
     BookNameComponent(chapter.book.key).html(chapter.book.key);
-    ChaptersComponent(chapter.book.key).append(ChapterCardComponent_Html.replaceAll('{chapter_number}', chapter.chapter.chapter).replaceAll('{chapter_id}', chapter.id).replaceAll('{book_key}', chapter.book.key));
+    ChaptersComponent(chapter.book.key).append(ChapterCardComponent_Html.replaceAll('{chapter_number}', chapter.chapter.id).replaceAll('{chapter_id}', chapter.id).replaceAll('{book_key}', chapter.book.key));
     ChapterCardComponent.add(chapter, callback, chapter_removed);
 }
 
 export const append = (chapter, callback) => {
     // console.log(`ChapterSelectComponent.append()`, chapter)
-    ChaptersComponent(chapter.book.key).append(ChapterCardComponent_Html.replaceAll('{chapter_number}', chapter.chapter.chapter).replaceAll('{chapter_id}', chapter.id).replaceAll('{book_key}', chapter.book.key));
+    ChaptersComponent(chapter.book.key).append(ChapterCardComponent_Html.replaceAll('{chapter_number}', chapter.chapter.id).replaceAll('{chapter_id}', chapter.id).replaceAll('{book_key}', chapter.book.key));
     // ChapterComponent(chapter.id).on('click', function (e) { e.stopPropagation(); callback($(this).data('id')); });
     ChapterCardComponent.append(chapter, callback, chapter_removed);
 }

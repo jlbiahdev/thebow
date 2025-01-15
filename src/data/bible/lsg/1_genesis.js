@@ -1,6 +1,10 @@
-export const data = [
+export const data = 
   {
-    chapter: 1,
+      "key": "exo",
+      "name": "Exode",
+      "chapters":  [
+  {
+    id: 1,
     lectures: [
       {
         id: 1,
@@ -43,7 +47,7 @@ export const data = [
     ]
   },
   {
-    chapter: 2,
+    id: 2,
     lectures: [
       {
         id: 3,
@@ -91,7 +95,7 @@ export const data = [
     ]
   },
   {
-    chapter: 3,
+    id: 3,
     lectures: [
       {
         id: 5,
@@ -126,7 +130,7 @@ export const data = [
     ]
   },
   {
-    chapter: 4,
+    id: 4,
     lectures: [
       {
         id: 6,
@@ -169,7 +173,7 @@ export const data = [
     ]
   },
   {
-    chapter: 5,
+    id: 5,
     lectures: [
       {
         id: 8,
@@ -217,7 +221,7 @@ export const data = [
     ]
   },
   {
-    chapter: 6,
+    id: 6,
     lectures: [
       {
         id: 9,
@@ -250,7 +254,7 @@ export const data = [
     ]
   },
   {
-    chapter: 7,
+    id: 7,
     lectures: [
       {
         id: 10,
@@ -280,9 +284,9 @@ export const data = [
         ]
       }
     ]
-  },
+  },  
   {
-    chapter: 8,
+    id: 8,
     lectures: [
       {
         id: 11,
@@ -313,7 +317,7 @@ export const data = [
     ]
   },
   {
-    chapter: 9,
+    id: 9,
     lectures: [
       {
         id: 12,
@@ -345,7 +349,7 @@ export const data = [
     ]
   },
   {
-    chapter: 10,
+    id: 10,
     lectures: [
       {
         id: 13,
@@ -376,7 +380,7 @@ export const data = [
     ]
   },
   {
-    chapter: 11,
+    id: 11,
     lectures: [
       {
         id: 14,
@@ -430,7 +434,7 @@ export const data = [
     ]
   },
   {
-    chapter: 12,
+    id: 12,
     lectures: [
       {
         id: 16,
@@ -473,7 +477,7 @@ export const data = [
     ]
   },
   {
-    chapter: 13,
+    id: 13,
     lectures: [
       {
         id: 18,
@@ -504,7 +508,7 @@ export const data = [
     ]
   },
   {
-    chapter: 14,
+    id: 14,
     lectures: [
       {
         id: 20,
@@ -546,7 +550,7 @@ export const data = [
     ]
   },
   {
-    chapter: 15,
+    id: 15,
     lectures: [
       {
         id: 22,
@@ -584,7 +588,7 @@ export const data = [
 
   },
   {
-    chapter: 16,
+    id: 16,
     lectures: [
       {
         id: 23,
@@ -616,7 +620,7 @@ export const data = [
     ]
   },
   {
-    chapter: 17,
+    id: 17,
     lectures: [
       {
         id: 24,
@@ -661,7 +665,7 @@ export const data = [
     ]
   },
   {
-    chapter: 18,
+    id: 18,
     lectures: [
       {
         id: 25,
@@ -712,7 +716,7 @@ export const data = [
     ]
   },
   {
-    chapter: 19,
+    id: 19,
     lectures: [
       {
         id: 27,
@@ -768,7 +772,7 @@ export const data = [
     ]
   },
   {
-    chapter: 20,
+    id: 20,
     lectures: [
       {
         id: 29,
@@ -797,7 +801,7 @@ export const data = [
     ]
   },
   {
-    chapter: 21,
+    id: 21,
     lectures: [
       {
         id: 30,
@@ -853,7 +857,7 @@ export const data = [
     ]
   },
   {
-    chapter: 22,
+    id: 22,
     lectures: [
       {
         id: 32,
@@ -894,7 +898,7 @@ export const data = [
     ]
   },
   {
-    chapter: 23,
+    id: 23,
     lectures: [
       {
         id: 33,
@@ -925,7 +929,7 @@ export const data = [
     ]
   },
   {
-    chapter: 24,
+    id: 24,
     lectures: [
       {
         id: 34,
@@ -1003,7 +1007,7 @@ export const data = [
     ]
   },
   {
-    chapter: 25,
+    id: 25,
     lectures: [
       {
         id: 35,
@@ -1070,7 +1074,7 @@ export const data = [
     ]
   },
   {
-    chapter: 26,
+    id: 26,
     lectures: [
       {
         id: 39,
@@ -1121,7 +1125,7 @@ export const data = [
     ]
   },
   {
-    chapter: 27,
+    id: 27,
     lectures: [
       {
         id: 40,
@@ -1185,7 +1189,7 @@ export const data = [
     ]
   },
   {
-    chapter: 28,
+    id: 28,
     lectures: [
       {
         id: 42,
@@ -1211,7 +1215,7 @@ export const data = [
     ]
   },
   {
-    chapter: 29,
+    id: 29,
     lectures: [
       {
         id: 44,
@@ -1253,7 +1257,7 @@ export const data = [
     ]
   },
   {
-    chapter: 30,
+    id: 30,
     lectures: [
       {
         id: 48,
@@ -1287,7 +1291,7 @@ export const data = [
     ]
   },
   {
-    chapter: 31,
+    id: 31,
     lectures: [
       {
         id: 50,
@@ -1325,7 +1329,7 @@ export const data = [
     ]
   },
   {
-    chapter: 32,
+    id: 32,
     lectures: [
       {
         id: 52,
@@ -1366,7 +1370,7 @@ export const data = [
     ]
   },
   {
-    chapter: 33,
+    id: 33,
     lectures: [
       {
         id: 55,
@@ -1392,7 +1396,7 @@ export const data = [
     ]
   },
   {
-    chapter: 34,
+    id: 34,
     lectures: [
       {
         id: 57,
@@ -1411,7 +1415,7 @@ export const data = [
     ]
   },
   {
-    chapter: 35,
+    id: 35,
     lectures: [
       {
         id: 58,
@@ -1435,7 +1439,7 @@ export const data = [
     ]
   },
   {
-    chapter: 36,
+    id: 36,
     lectures: [
       {
         id: 60,
@@ -1454,7 +1458,7 @@ export const data = [
     ]
   },
   {
-    chapter: 37,
+    id: 37,
     lectures: [
       {
         id: 61,
@@ -1481,7 +1485,7 @@ export const data = [
     ]
   },
   {
-    chapter: 38,
+    id: 38,
     lectures: [
       {
         id: 62,
@@ -1503,7 +1507,7 @@ export const data = [
     ]
   },
   {
-    chapter: 39,
+    id: 39,
     lectures: [
       {
         id: 63,
@@ -1529,7 +1533,7 @@ export const data = [
     ]
   },
   {
-    chapter: 40,
+    id: 40,
     lectures: [
       {
         id: 65,
@@ -1549,7 +1553,7 @@ export const data = [
     ]
   },
   {
-    chapter: 41,
+    id: 41,
     lectures: [
       {
         id: 66,
@@ -1633,7 +1637,7 @@ export const data = [
     ]
   },
   {
-    chapter: 42,
+    id: 42,
     lectures: [
       {
         id: 69,
@@ -1682,7 +1686,7 @@ export const data = [
     ]
   },
   {
-    chapter: 43,
+    id: 43,
     lectures: [
       {
         id: 70,
@@ -1727,7 +1731,7 @@ export const data = [
     ]
   },
   {
-    chapter: 44,
+    id: 44,
     lectures: [
       {
         id: 71,
@@ -1772,7 +1776,7 @@ export const data = [
     ]
   },
   {
-    chapter: 45,
+    id: 45,
     lectures: [
       {
         id: 72,
@@ -1812,7 +1816,7 @@ export const data = [
     ]
   },
   {
-    chapter: 46,
+    id: 46,
     lectures: [
       {
         id: 73,
@@ -1857,7 +1861,7 @@ export const data = [
     ]
   },
   {
-    chapter: 47,
+    id: 47,
     lectures: [
       {
         id: 74,
@@ -1899,7 +1903,7 @@ export const data = [
     ]
   },
   {
-    chapter: 48,
+    id: 48,
     lectures: [
       {
         id: 75,
@@ -1932,7 +1936,7 @@ export const data = [
     ]
   },
   {
-    chapter: 49,
+    id: 49,
     lectures: [
       {
         id: 76,
@@ -1986,7 +1990,7 @@ export const data = [
     ]
   },
   {
-    chapter: 50,
+    id: 50,
     lectures: [
       {
         id: 78,
@@ -2028,4 +2032,5 @@ export const data = [
       }
     ]
   }
-]
+    ]
+  }
