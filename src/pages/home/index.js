@@ -67,6 +67,7 @@ const insertOtherBibles = () => {
 }
 
 const initBible = () => {
+    console.log('initBible')
     var chapters = ToolService.Build()
 
     console.log(chapters);

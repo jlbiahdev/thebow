@@ -1,4 +1,4 @@
-import * as BibleIndexDb from '../../data/bible/index.js';
+import * as BibleIndexDb from '../../data/bible/_index.js';
 
 export const get = () => {
     var items = BibleIndexDb.data;
@@ -12,23 +12,26 @@ export const Build = () => {
     var result = [];
 
     bible.forEach(bk => {
+        var book = {
+            key: bk.key,
+            name: bk.book,
+            chapters: [],
+        }
+
         bk.chapters.forEach(chapter => {
             var count = 0;
-            var book = {
-                id: bk.book,
-                chapter: chapter.index,
-                verses: []
-            }
+            var cptr = { id: chapter.index, verses: []}
+            book.chapters.push(cptr);
 
             while(count < chapter.verses) {
-                book.verses.push({
-                    verse: count++,
+                cptr.verses.push({
+                    id: count++,
                     text: ``,
-                    footnote: ``
+                    footnote: [ ``, `` ]
                 });
             }
-            result.push(book);
         });
+        result.push(book);
     })
 
     return result;

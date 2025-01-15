@@ -1,6 +1,7 @@
 export const data = [
     {
         book: 'Genèse',
+        key: 'gen',
         chapters: [
             { index: 1, verses: 31 },
             { index: 2, verses: 25 },
@@ -55,6 +56,7 @@ export const data = [
         ]
     },
     {
+        key: 'exo',
         book: 'Exode',
         chapters: [
             { index: 1, verses: 22 },
@@ -100,6 +102,7 @@ export const data = [
         ]
     },
     {
+        key: 'lev',
         book: 'Lévitique',
         chapters: [
             { index: 1, verses: 17 },
@@ -132,6 +135,7 @@ export const data = [
         ]
     },
     {
+        key: 'num',
         book: 'Nombres',
         chapters: [
             { index: 1, verses: 54 },
@@ -173,6 +177,7 @@ export const data = [
         ]
     },
     {
+        key: 'deu',
         book: 'Deutéronome',
         chapters: [
             { index: 1, verses: 46 },
@@ -212,6 +217,7 @@ export const data = [
         ]
     },
     {
+        key: 'jos',
         book: 'Josué',
         chapters: [
             { index: 1, verses: 18 },
@@ -241,6 +247,7 @@ export const data = [
         ]
     },
     {
+        key: 'jdg',
         book: 'Juges',
         chapters: [
             { index: 1, verses: 36 },
@@ -267,6 +274,7 @@ export const data = [
         ]
     },
     {
+        key: 'rut',
         book: 'Ruth',
         chapters: [
             { index: 1, verses: 22 },
@@ -276,6 +284,7 @@ export const data = [
         ]
     },
     {
+        key: '1sa',
         book: '1 Samuel',
         chapters: [
             { index: 1, verses: 28 },
@@ -312,6 +321,7 @@ export const data = [
         ]
     },
     {
+        key: '2sa',
         book: '2 Samuel',
         chapters: [
             { index: 1, verses: 27 },
@@ -341,6 +351,7 @@ export const data = [
         ]
     },
     {
+        key: '1ki',
         book: '1 Rois',
         chapters: [
             { index: 1, verses: 53 },
@@ -368,6 +379,7 @@ export const data = [
         ]
     },
     {
+        key: '2ki',
         book: '2 Rois',
         chapters: [
             { index: 1, verses: 18 },
@@ -398,6 +410,7 @@ export const data = [
         ]
     },
     {
+        key: '1ch',
         book: '1 Chroniques',
         chapters: [
             { index: 1, verses: 54 },              
@@ -432,6 +445,7 @@ export const data = [
         ]
     },
     {
+        key: '2ch',
         book: '2 Chroniques',
         chapters: [
             { index: 1, verses: 17 },
@@ -473,6 +487,7 @@ export const data = [
         ]
     },
     {
+        key: 'ezr',
         book: 'Esdras',
         chapters: [
             { index: 1, verses: 11 },
@@ -488,6 +503,7 @@ export const data = [
         ]
     },
     {
+        key: 'neh',
         book: 'Néhémie',
         chapters: [
             { index: 1, verses: 11 },
@@ -506,6 +522,7 @@ export const data = [
         ]
     },
     {
+        key: 'est',
         book: 'Esther',
         chapters: [
             { index: 1, verses: 22 },
@@ -521,6 +538,7 @@ export const data = [
         ]
     },
     {
+        key: 'job',
         book: 'Job',
         chapters: [
             { index: 1, verses: 22 },
@@ -568,6 +586,7 @@ export const data = [
         ]
     },
     {
+        key: 'psa',
         book: 'Psaumes',
         chapters: [
             { index: 1, verses: 6 },
@@ -723,6 +742,7 @@ export const data = [
         ]
     },
     {
+        key: 'pro',
         book: 'Proverbes',
         chapters: [
             { index: 1, verses: 33 },
@@ -759,6 +779,7 @@ export const data = [
         ]
     },
     {
+        key: 'ecc',
         book: 'Ecclésiaste',
         chapters: [
             { index: 1, verses: 18 },
@@ -776,6 +797,7 @@ export const data = [
         ]
     },
     {
+        key: 'sng',
         book: 'Cantique',
         chapters: [
             { index: 1, verses: 17 },
@@ -789,6 +811,7 @@ export const data = [
         ]
     },
     {
+        key: 'isa',
         book: 'Esaïe',
         chapters: [
             { index: 1, verses: 31 },
@@ -860,6 +883,7 @@ export const data = [
         ]
     },
     {
+        key: 'jer',
         book: 'Jérémie',
         chapters: [
             { index: 1, verses: 19 },
@@ -917,6 +941,7 @@ export const data = [
         ]
     },
     {
+        key: 'lam',
         book: 'Lamentations',
         chapters: [
             { index: 1, verses: 22 },
@@ -927,6 +952,7 @@ export const data = [
         ]
     },
     {
+        key: 'ezk',
         book: 'Ezéchiel',
         chapters: [
             { index: 1, verses: 28 },
@@ -980,6 +1006,7 @@ export const data = [
         ]
     },
     {
+        key: 'dan',
         book: 'Daniel',
         chapters: [
             { index: 1, verses: 21 },
@@ -997,6 +1024,7 @@ export const data = [
         ]
     },
     {
+        key: 'hos',
         book: 'Osée',
         chapters: [
             { index: 1, verses: 9 },
@@ -1016,6 +1044,7 @@ export const data = [
         ]
     },
     {
+        key: 'jol',
         book: 'Joël',
         chapters: [
             { index: 1, verses: 20 },
@@ -1024,6 +1053,7 @@ export const data = [
         ]
     },
     {
+        key: 'amo',
         book: 'Amos',
         chapters: [
             { index: 1, verses: 15 },
@@ -1038,12 +1068,14 @@ export const data = [
         ]
     },
     {
+        key: 'oba',
         book: 'Abdias',
         chapters: [
             { index: 1, verses: 21 },
         ]
     },
     {
+        key: 'jon',
         book: 'Jonas',
         chapters: [
             { index: 1, verses: 16 },
@@ -1053,6 +1085,7 @@ export const data = [
         ]
     },
     {
+        key: 'mic',
         book: 'Michée',
         chapters: [
             { index: 1, verses: 16 },
@@ -1065,6 +1098,7 @@ export const data = [
         ]
     },
     {
+        key: 'nam',
         book: 'Nahum',
         chapters: [
             { index: 1, verses: 14 },
@@ -1073,6 +1107,7 @@ export const data = [
         ]
     },
     {
+        key: 'hab',
         book: 'Habakuk',
         chapters: [
             { index: 1, verses: 17 },
@@ -1081,6 +1116,7 @@ export const data = [
         ]
     },
     {
+        key: 'zep',
         book: 'Sophonie',
         chapters: [
             { index: 1, verses: 18 },
@@ -1089,6 +1125,7 @@ export const data = [
         ]
     },
     {
+        key: 'hag',
         book: 'Aggée',
         chapters: [
             { index: 1, verses: 15 },
@@ -1096,6 +1133,7 @@ export const data = [
         ]
     },
     {
+        key: 'zec',
         book: 'Zacharie',
         chapters: [
             { index: 1, verses: 21 },
@@ -1115,6 +1153,7 @@ export const data = [
         ]
     },
     {
+        key: 'mal',
         book: 'Malachie',
         chapters: [
             { index: 1, verses: 14 },
@@ -1124,6 +1163,7 @@ export const data = [
         ]
     },
     {
+        key: 'mat',
         book: 'Matthieu',
         chapters: [
             { index: 1, verses: 25 },
@@ -1157,6 +1197,7 @@ export const data = [
         ]
     },
     {
+        key: 'mrk',
         book: 'Marc',
         chapters: [
             { index: 1, verses: 45 },
@@ -1178,6 +1219,7 @@ export const data = [
         ]
     },
     {
+        key: 'luk',
         book: 'Luc',
         chapters: [
             { index: 1, verses: 80 },
@@ -1207,6 +1249,7 @@ export const data = [
         ]
     },
     {
+        key: 'jhn',
         book: 'Jean',
         chapters: [
             { index: 1, verses: 51 },
@@ -1233,6 +1276,7 @@ export const data = [
         ]
     },
     {
+        key: 'act',
         book: 'Actes',
         chapters: [
             { index: 1, verses: 26 },
@@ -1266,6 +1310,7 @@ export const data = [
         ]
     },
     {
+        key: 'rom',
         book: 'Romains',
         chapters: [
             { index: 1, verses: 32 },
@@ -1287,6 +1332,7 @@ export const data = [
         ]
     },
     {
+        key: '1co',
         book: '1 Corinthiens',
         chapters: [
             { index: 1, verses: 31 },
@@ -1308,6 +1354,7 @@ export const data = [
         ]
     },
     {
+        key: '2co',
         book: '2 Corinthiens',
         chapters: [
             { index: 1, verses: 24 },
@@ -1326,6 +1373,7 @@ export const data = [
         ]
     },
     {
+        key: 'gal',
         book: 'Galates',
         chapters: [
             { index: 1, verses: 24 },
@@ -1337,6 +1385,7 @@ export const data = [
         ]
     },
     {
+        key: 'eph',
         book: 'Ephésiens',
         chapters: [
             { index: 1, verses: 23 },
@@ -1348,6 +1397,7 @@ export const data = [
         ]
     },
     {
+        key: 'php',
         book: 'Philippiens',
         chapters: [
             { index: 1, verses: 30 },
@@ -1357,6 +1407,7 @@ export const data = [
         ]
     },
     {
+        key: 'col',
         book: 'Colossiens',
         chapters: [
             { index: 1, verses: 29 },
@@ -1366,6 +1417,7 @@ export const data = [
         ]
     },
     {
+        key: '1th',
         book: '1 Thessaloniciens',
         chapters: [
             { index: 1, verses: 10 },
@@ -1376,6 +1428,7 @@ export const data = [
         ]
     },
     {
+        key: '2th',
         book: '2 Thessaloniciens',
         chapters: [
             { index: 1, verses: 12 },
@@ -1384,6 +1437,7 @@ export const data = [
         ]
     },
     {
+        key: '1ti',
         book: '1 Timothée',
         chapters: [
             { index: 1, verses: 20 },
@@ -1395,6 +1449,7 @@ export const data = [
         ]
     },
     {
+        key: '2ti',
         book: '2 Timothée',
         chapters: [
             { index: 1, verses: 18 },
@@ -1404,6 +1459,7 @@ export const data = [
         ]
     },
     {
+        key: 'tit',
         book: 'Tite',
         chapters: [
             { index: 1, verses: 16 },
@@ -1412,12 +1468,14 @@ export const data = [
         ]
     },
     {
+        key: 'phm',
         book: 'Philémon',
         chapters: [
             { index: 1, verses: 25 },
         ]
     },
     {
+        key: 'heb',
         book: 'Hébreux',
         chapters: [
             { index: 1, verses: 14 },
@@ -1436,6 +1494,7 @@ export const data = [
         ]
     },
     {
+        key: 'jas',
         book: 'Jacques',
         chapters: [
             { index: 1, verses: 27 },
@@ -1446,6 +1505,7 @@ export const data = [
         ]
     },
     {
+        key: '1pe',
         book: '1 Pierre',
         chapters: [
             { index: 1, verses: 25 },
@@ -1456,6 +1516,7 @@ export const data = [
         ]
     },
     {
+        key: '2pe',
         book: '2 Pierre',
         chapters: [
             { index: 1, verses: 21 },
@@ -1464,6 +1525,7 @@ export const data = [
         ]
     },
     {
+        key: '1jn',
         book: '1 Jean',
         chapters: [
             { index: 1, verses: 10 },
@@ -1474,24 +1536,28 @@ export const data = [
         ]
     },
     {
+        key: '2jn',
         book: '2 Jean',
         chapters: [
             { index: 1, verses: 13 },
         ]
     },
     {
+        key: '3jn',
         book: '3 Jean',
         chapters: [
             { index: 1, verses: 15 },
         ]
     },
     {
+        key: 'jud',
         book: 'Jude',
         chapters: [
             { index: 1, verses: 25 },
         ]
     },
     {
+        key: 'rev',
         book: 'Apocalypse',
         chapters: [
             { index: 1, verses: 20 },
