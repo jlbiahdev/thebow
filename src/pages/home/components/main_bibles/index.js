@@ -2,13 +2,13 @@ import * as Cookies from '../../../../resources/js/cookies.js';
 import * as Commons from '../../../../resources/js/common.js';
 import * as Presentations from '../../../../data/presentations/index.js';
 import * as MainBibles from '../../../../data/home/main_bibles.js';
-import * as BibleOverlayComponent from '../../../bible_overlay_card/index.js';
+import * as BibleOverlayComponent from '../../../../components/bible_overlay_card/index.js';
 
 $(document).ready(() => {
 });
 
-export const cssFilePath = '/src/components/home/components/main_bibles/index.css';
-export const htmlFilePath = '/src/components/home/components/main_bibles/index.html';
+export const cssFilePath = '/src/pages/home/components/main_bibles/index.css';
+export const htmlFilePath = '/src/pages/home/components/main_bibles/index.html';
 export const init = (parentNodeKey) => {
     // console.log('MainBiblesComponent.init')
     Commons.getHtmlFilePath(BibleOverlayComponent.htmlFilePath).then(html => {

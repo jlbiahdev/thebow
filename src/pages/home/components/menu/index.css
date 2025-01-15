@@ -6,7 +6,6 @@ ul.main-menu {
 }
 
 ul.main-menu li {
-    cursor: pointer;
     text-transform: uppercase;
 }
 
@@ -32,4 +31,22 @@ ul.main-menu a:after {
 
 ul.main-menu a:hover:after {
     opacity: 1;
+}
+
+#resources-submenu {
+    display: none;
+}
+
+#resources-submenu ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+#resources-submenu ul li {
+    text-transform: capitalize;
+}
+
+#resources-submenu ul li a {
+    font-size: 1.5rem;
 }

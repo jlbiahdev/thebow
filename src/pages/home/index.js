@@ -1,13 +1,12 @@
 import * as ToolService from '../../resources/js/toolsService.js';
 import * as Commons from '../../resources/js/common.js';
-import * as Cookies from '../../resources/js/cookies.js';
 import * as MainMenu from './components/menu/index.js';
 import * as IntroComponent from './components/intro/index.js';
 import * as MainBiblesComponent from './components/main_bibles/index.js';
 import * as OtherBiblesComponent from './components/other_bibles/index.js';
 
-export const cssFilePath = '/src/components/home/index.css';
-export const htmlFilePath = '/src/components/home/index.html';
+export const cssFilePath = '/src/pages/home/index.css';
+export const htmlFilePath = '/src/pages/home/index.html';
 export const pageName = Commons.APP_PAGES.Home;
 
 export const init = () => {
@@ -21,9 +20,13 @@ export const init = () => {
 
 const insertMenu = () => {
     // console.log('HomeComponent.insertMenu')
-    Commons.getHtmlFilePath(MainMenu.htmlFilePath).then(html => {
+    Commons.getHtmlFilePath(MainMenu.htmlFilePath)
+    .then(html => {
         $('head').append(`<link rel="stylesheet" href="${MainMenu.cssFilePath}">`);
         $('nav').append(html);
+    })
+    .then(() => {
+        MainMenu.init();
     });
 }
 

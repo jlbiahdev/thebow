@@ -1,6 +1,6 @@
 import * as Cookies from './cookies.js';
 import * as Commons from './common.js';
-import * as HomeComponent from '../../components/home/index.js';
+import * as HomeComponent from '../../pages/home/index.js';
 
 $(document).ready(() => {
     Commons.getHtmlFilePath(HomeComponent.htmlFilePath).then(html => {

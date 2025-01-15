@@ -48,8 +48,8 @@ const remove_links = (text) => {
     return output;
 }
 
-export const cssFilePath = '/src/components/home/components/other_bibles/index.css';
-export const htmlFilePath = '/src/components/home/components/other_bibles/index.html';
+export const cssFilePath = '/src/pages/home/components/other_bibles/index.css';
+export const htmlFilePath = '/src/pages/home/components/other_bibles/index.html';
 export const init = (parentNodeKey) => {
     // console.log('OtherBiblesComponent.init')
 
