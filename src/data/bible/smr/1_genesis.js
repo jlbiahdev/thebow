@@ -469,14 +469,6 @@ export const data =   {
                 ``,
                 ``
               ]
-            },
-            {
-              id: 25,
-              text: ``,
-              "footnote": [
-                ``,
-                ``
-              ]
             }
           ]
         },

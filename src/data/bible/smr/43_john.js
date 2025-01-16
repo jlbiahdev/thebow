@@ -1,4051 +1,9 @@
 export const data =   {
-  key: "gen",
-  name: "Genèse",
+  key: "jhn",
+  name: "Jean",
   "chapters": [
     {
       id: 1,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 2,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 3,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 4,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 5,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 6,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 7,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 8,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 9,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 10,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 11,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 12,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 13,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 14,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 15,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 16,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 17,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 18,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 19,
       "lectures": [
         {
           id: 1,
@@ -4354,6 +312,102 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 39,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 40,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 41,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 42,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 43,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 44,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 45,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 46,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 47,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 48,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 49,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 50,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -4370,7 +424,7 @@ export const data =   {
       ]
     },
     {
-      id: 20,
+      id: 2,
       "lectures": [
         {
           id: 1,
@@ -4519,6 +573,54 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -4535,7 +637,7 @@ export const data =   {
       ]
     },
     {
-      id: 21,
+      id: 3,
       "lectures": [
         {
           id: 1,
@@ -4812,6 +914,14 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 35,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -4828,7 +938,7 @@ export const data =   {
       ]
     },
     {
-      id: 22,
+      id: 4,
       "lectures": [
         {
           id: 1,
@@ -5025,6 +1135,238 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 31,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 32,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 33,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 34,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 35,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 36,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 37,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 38,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 39,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 40,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 41,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 42,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 43,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 44,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 45,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 46,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 47,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 48,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 49,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 50,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 51,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 52,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 53,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -5041,7 +1383,7 @@ export const data =   {
       ]
     },
     {
-      id: 23,
+      id: 5,
       "lectures": [
         {
           id: 1,
@@ -5206,6 +1548,214 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 31,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 32,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 33,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 34,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 35,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 36,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 37,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 38,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 39,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 40,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 41,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 42,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 43,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 44,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 45,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 46,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -5222,7 +1772,7 @@ export const data =   {
       ]
     },
     {
-      id: 24,
+      id: 6,
       "lectures": [
         {
           id: 1,
@@ -5763,30 +2313,9 @@ export const data =   {
                 ``,
                 ``
               ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 25,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
+            },
             {
-              id: 1,
+              id: 68,
               text: ``,
               footnotes: [
                 ``,
@@ -5794,7 +2323,7 @@ export const data =   {
               ]
             },
             {
-              id: 2,
+              id: 69,
               text: ``,
               footnotes: [
                 ``,
@@ -5802,255 +2331,7 @@ export const data =   {
               ]
             },
             {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
+              id: 70,
               text: ``,
               footnotes: [
                 ``,
@@ -6072,300 +2353,7 @@ export const data =   {
       ]
     },
     {
-      id: 26,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 27,
+      id: 7,
       "lectures": [
         {
           id: 1,
@@ -6730,30 +2718,9 @@ export const data =   {
                 ``,
                 ``
               ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 28,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
+            },
             {
-              id: 1,
+              id: 46,
               text: ``,
               footnotes: [
                 ``,
@@ -6761,7 +2728,7 @@ export const data =   {
               ]
             },
             {
-              id: 2,
+              id: 47,
               text: ``,
               footnotes: [
                 ``,
@@ -6769,7 +2736,7 @@ export const data =   {
               ]
             },
             {
-              id: 3,
+              id: 48,
               text: ``,
               footnotes: [
                 ``,
@@ -6777,7 +2744,7 @@ export const data =   {
               ]
             },
             {
-              id: 4,
+              id: 49,
               text: ``,
               footnotes: [
                 ``,
@@ -6785,7 +2752,7 @@ export const data =   {
               ]
             },
             {
-              id: 5,
+              id: 50,
               text: ``,
               footnotes: [
                 ``,
@@ -6793,7 +2760,7 @@ export const data =   {
               ]
             },
             {
-              id: 6,
+              id: 51,
               text: ``,
               footnotes: [
                 ``,
@@ -6801,119 +2768,7 @@ export const data =   {
               ]
             },
             {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
+              id: 52,
               text: ``,
               footnotes: [
                 ``,
@@ -6935,657 +2790,7 @@ export const data =   {
       ]
     },
     {
-      id: 29,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 30,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 35,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 36,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 37,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 38,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 39,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 40,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 41,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 42,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 31,
+      id: 8,
       "lectures": [
         {
           id: 1,
@@ -8022,6 +3227,38 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 55,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 56,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 57,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 58,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -8038,7 +3275,7 @@ export const data =   {
       ]
     },
     {
-      id: 32,
+      id: 9,
       "lectures": [
         {
           id: 1,
@@ -8291,30 +3528,9 @@ export const data =   {
                 ``,
                 ``
               ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 33,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
+            },
             {
-              id: 1,
+              id: 32,
               text: ``,
               footnotes: [
                 ``,
@@ -8322,7 +3538,7 @@ export const data =   {
               ]
             },
             {
-              id: 2,
+              id: 33,
               text: ``,
               footnotes: [
                 ``,
@@ -8330,7 +3546,7 @@ export const data =   {
               ]
             },
             {
-              id: 3,
+              id: 34,
               text: ``,
               footnotes: [
                 ``,
@@ -8338,7 +3554,7 @@ export const data =   {
               ]
             },
             {
-              id: 4,
+              id: 35,
               text: ``,
               footnotes: [
                 ``,
@@ -8346,7 +3562,7 @@ export const data =   {
               ]
             },
             {
-              id: 5,
+              id: 36,
               text: ``,
               footnotes: [
                 ``,
@@ -8354,7 +3570,7 @@ export const data =   {
               ]
             },
             {
-              id: 6,
+              id: 37,
               text: ``,
               footnotes: [
                 ``,
@@ -8362,7 +3578,7 @@ export const data =   {
               ]
             },
             {
-              id: 7,
+              id: 38,
               text: ``,
               footnotes: [
                 ``,
@@ -8370,7 +3586,7 @@ export const data =   {
               ]
             },
             {
-              id: 8,
+              id: 39,
               text: ``,
               footnotes: [
                 ``,
@@ -8378,87 +3594,7 @@ export const data =   {
               ]
             },
             {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
+              id: 40,
               text: ``,
               footnotes: [
                 ``,
@@ -8480,513 +3616,7 @@ export const data =   {
       ]
     },
     {
-      id: 34,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 35,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 36,
+      id: 10,
       "lectures": [
         {
           id: 1,
@@ -9319,14 +3949,6 @@ export const data =   {
                 ``,
                 ``
               ]
-            },
-            {
-              id: 42,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
@@ -9343,955 +3965,7 @@ export const data =   {
       ]
     },
     {
-      id: 37,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 35,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 38,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 39,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 40,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 41,
+      id: 11,
       "lectures": [
         {
           id: 1,
@@ -10760,7 +4434,420 @@ export const data =   {
       ]
     },
     {
-      id: 42,
+      id: 12,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 31,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 32,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 33,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 34,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 35,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 36,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 37,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 38,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 39,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 40,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 41,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 42,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 43,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 44,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 45,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 46,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 47,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 48,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 49,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
+        }
+      ]
+    },
+    {
+      id: 13,
       "lectures": [
         {
           id: 1,
@@ -11077,7 +5164,995 @@ export const data =   {
       ]
     },
     {
-      id: 43,
+      id: 14,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
+        }
+      ]
+    },
+    {
+      id: 15,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
+        }
+      ]
+    },
+    {
+      id: 16,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 31,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 32,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
+        }
+      ]
+    },
+    {
+      id: 17,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
+        }
+      ]
+    },
+    {
+      id: 18,
       "lectures": [
         {
           id: 1,
@@ -11346,6 +6421,54 @@ export const data =   {
                 ``,
                 ``
               ]
+            },
+            {
+              id: 34,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 35,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 36,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 37,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 38,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 39,
+              text: ``,
+              footnotes: [
+                ``,
+                ``
+              ]
             }
           ]
         },
@@ -11362,7 +6485,7 @@ export const data =   {
       ]
     },
     {
-      id: 44,
+      id: 19,
       "lectures": [
         {
           id: 1,
@@ -11631,30 +6754,9 @@ export const data =   {
                 ``,
                 ``
               ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 45,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
+            },
             {
-              id: 1,
+              id: 34,
               text: ``,
               footnotes: [
                 ``,
@@ -11662,7 +6764,7 @@ export const data =   {
               ]
             },
             {
-              id: 2,
+              id: 35,
               text: ``,
               footnotes: [
                 ``,
@@ -11670,7 +6772,7 @@ export const data =   {
               ]
             },
             {
-              id: 3,
+              id: 36,
               text: ``,
               footnotes: [
                 ``,
@@ -11678,7 +6780,7 @@ export const data =   {
               ]
             },
             {
-              id: 4,
+              id: 37,
               text: ``,
               footnotes: [
                 ``,
@@ -11686,7 +6788,7 @@ export const data =   {
               ]
             },
             {
-              id: 5,
+              id: 38,
               text: ``,
               footnotes: [
                 ``,
@@ -11694,7 +6796,7 @@ export const data =   {
               ]
             },
             {
-              id: 6,
+              id: 39,
               text: ``,
               footnotes: [
                 ``,
@@ -11702,7 +6804,7 @@ export const data =   {
               ]
             },
             {
-              id: 7,
+              id: 40,
               text: ``,
               footnotes: [
                 ``,
@@ -11710,159 +6812,7 @@ export const data =   {
               ]
             },
             {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
+              id: 41,
               text: ``,
               footnotes: [
                 ``,
@@ -11884,292 +6834,7 @@ export const data =   {
       ]
     },
     {
-      id: 46,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 47,
+      id: 20,
       "lectures": [
         {
           id: 1,
@@ -12430,196 +7095,7 @@ export const data =   {
       ]
     },
     {
-      id: 48,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 49,
+      id: 21,
       "lectures": [
         {
           id: 1,
@@ -12811,291 +7287,6 @@ export const data =   {
             },
             {
               id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            }
-          ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
-        }
-      ]
-    },
-    {
-      id: 50,
-      "lectures": [
-        {
-          id: 1,
-          title: ``,
-          "verses": [
-            {
-              id: 1,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 2,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 3,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 4,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 5,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 6,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
               text: ``,
               footnotes: [
                 ``,
