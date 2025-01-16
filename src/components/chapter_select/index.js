@@ -17,7 +17,7 @@ export const exists = (chapter) => Component(chapter.book.key).length;
 export const contains = (chapterId) => ChapterCardComponent.exists(chapterId);
 
 export const add = (chapter, callback) => {
-    console.log(`ChapterSelectComponent.add()`, chapter)
+    // console.log(`ChapterSelectComponent.add()`, chapter)
 
     // Component(chapter.book.key).empty()
     ImageComponent(chapter.book.key).attr("src", Commons.BibleImagesFolder + chapter.book.image);

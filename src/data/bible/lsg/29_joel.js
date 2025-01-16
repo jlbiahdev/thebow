@@ -1,26 +1,18 @@
-export const data = {
+export const data =   {
   key: "jol",
   name: "Joël",
-  chapters: [
+  "chapters": [
     {
       id: 1,
-      lectures: [
+      "lectures": [
         {
           id: 1,
           title: ``,
-          verses: [
-            {
-              id: 0,
-              text: ``,
-              footnote: [
-                ``,
-                ``
-              ]
-            },
+          "verses": [
             {
               id: 1,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -28,7 +20,7 @@ export const data = {
             {
               id: 2,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -36,7 +28,7 @@ export const data = {
             {
               id: 3,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -44,7 +36,7 @@ export const data = {
             {
               id: 4,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -52,7 +44,7 @@ export const data = {
             {
               id: 5,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -60,7 +52,7 @@ export const data = {
             {
               id: 6,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -68,7 +60,7 @@ export const data = {
             {
               id: 7,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -76,7 +68,7 @@ export const data = {
             {
               id: 8,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -84,7 +76,7 @@ export const data = {
             {
               id: 9,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -92,7 +84,7 @@ export const data = {
             {
               id: 10,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -100,7 +92,7 @@ export const data = {
             {
               id: 11,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -108,7 +100,7 @@ export const data = {
             {
               id: 12,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -116,7 +108,7 @@ export const data = {
             {
               id: 13,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -124,7 +116,7 @@ export const data = {
             {
               id: 14,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -132,7 +124,7 @@ export const data = {
             {
               id: 15,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -140,7 +132,7 @@ export const data = {
             {
               id: 16,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -148,7 +140,7 @@ export const data = {
             {
               id: 17,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -156,7 +148,7 @@ export const data = {
             {
               id: 18,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -164,7 +156,7 @@ export const data = {
             {
               id: 19,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -174,36 +166,26 @@ export const data = {
         {
           id: 2,
           title: ``,
-          verses: [
-]
+          "verses": []
         },
         {
           id: 3,
           title: ``,
-          verses: [
-]
+          "verses": []
         }
       ]
     },
     {
       id: 2,
-      lectures: [
+      "lectures": [
         {
           id: 1,
           title: ``,
-          verses: [
-            {
-              id: 0,
-              text: ``,
-              footnote: [
-                ``,
-                ``
-              ]
-            },
+          "verses": [
             {
               id: 1,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -211,7 +193,7 @@ export const data = {
             {
               id: 2,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -219,7 +201,7 @@ export const data = {
             {
               id: 3,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -227,7 +209,7 @@ export const data = {
             {
               id: 4,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -235,7 +217,7 @@ export const data = {
             {
               id: 5,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -243,7 +225,7 @@ export const data = {
             {
               id: 6,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -251,7 +233,7 @@ export const data = {
             {
               id: 7,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -259,7 +241,7 @@ export const data = {
             {
               id: 8,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -267,7 +249,7 @@ export const data = {
             {
               id: 9,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -275,7 +257,7 @@ export const data = {
             {
               id: 10,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -283,7 +265,7 @@ export const data = {
             {
               id: 11,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -291,7 +273,7 @@ export const data = {
             {
               id: 12,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -299,7 +281,7 @@ export const data = {
             {
               id: 13,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -307,7 +289,7 @@ export const data = {
             {
               id: 14,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -315,7 +297,7 @@ export const data = {
             {
               id: 15,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -323,7 +305,7 @@ export const data = {
             {
               id: 16,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -331,7 +313,7 @@ export const data = {
             {
               id: 17,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -339,7 +321,7 @@ export const data = {
             {
               id: 18,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -347,7 +329,7 @@ export const data = {
             {
               id: 19,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -355,7 +337,7 @@ export const data = {
             {
               id: 20,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -363,7 +345,7 @@ export const data = {
             {
               id: 21,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -371,7 +353,7 @@ export const data = {
             {
               id: 22,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -379,7 +361,7 @@ export const data = {
             {
               id: 23,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -387,7 +369,7 @@ export const data = {
             {
               id: 24,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -395,7 +377,7 @@ export const data = {
             {
               id: 25,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -403,7 +385,7 @@ export const data = {
             {
               id: 26,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -411,7 +393,7 @@ export const data = {
             {
               id: 27,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -419,7 +401,7 @@ export const data = {
             {
               id: 28,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -427,7 +409,7 @@ export const data = {
             {
               id: 29,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -435,7 +417,7 @@ export const data = {
             {
               id: 30,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -443,7 +425,7 @@ export const data = {
             {
               id: 31,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -453,36 +435,26 @@ export const data = {
         {
           id: 2,
           title: ``,
-          verses: [
-]
+          "verses": []
         },
         {
           id: 3,
           title: ``,
-          verses: [
-]
+          "verses": []
         }
       ]
     },
     {
       id: 3,
-      lectures: [
+      "lectures": [
         {
           id: 1,
           title: ``,
-          verses: [
-            {
-              id: 0,
-              text: ``,
-              footnote: [
-                ``,
-                ``
-              ]
-            },
+          "verses": [
             {
               id: 1,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -490,7 +462,7 @@ export const data = {
             {
               id: 2,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -498,7 +470,7 @@ export const data = {
             {
               id: 3,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -506,7 +478,7 @@ export const data = {
             {
               id: 4,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -514,7 +486,7 @@ export const data = {
             {
               id: 5,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -522,7 +494,7 @@ export const data = {
             {
               id: 6,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -530,7 +502,7 @@ export const data = {
             {
               id: 7,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -538,7 +510,7 @@ export const data = {
             {
               id: 8,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -546,7 +518,7 @@ export const data = {
             {
               id: 9,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -554,7 +526,7 @@ export const data = {
             {
               id: 10,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -562,7 +534,7 @@ export const data = {
             {
               id: 11,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -570,7 +542,7 @@ export const data = {
             {
               id: 12,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -578,7 +550,7 @@ export const data = {
             {
               id: 13,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -586,7 +558,7 @@ export const data = {
             {
               id: 14,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -594,7 +566,7 @@ export const data = {
             {
               id: 15,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -602,7 +574,7 @@ export const data = {
             {
               id: 16,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -610,7 +582,7 @@ export const data = {
             {
               id: 17,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -618,7 +590,7 @@ export const data = {
             {
               id: 18,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -626,7 +598,7 @@ export const data = {
             {
               id: 19,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -634,7 +606,7 @@ export const data = {
             {
               id: 20,
               text: ``,
-              footnote: [
+              "footnote": [
                 ``,
                 ``
               ]
@@ -644,14 +616,12 @@ export const data = {
         {
           id: 2,
           title: ``,
-          verses: [
-]
+          "verses": []
         },
         {
           id: 3,
           title: ``,
-          verses: [
-]
+          "verses": []
         }
       ]
     }

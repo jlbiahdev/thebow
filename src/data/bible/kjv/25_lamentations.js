@@ -1,802 +1,1303 @@
-export const data = [
+export const data =   {
+  key: "lam",
+  name: "Lamentations",
+  "chapters": [
     {
-      "id": "Lamentations",
-      "chapter": 1,
-      "verses": [
+      id: 1,
+      "lectures": [
         {
-          "verse": 0,
-          "text": "",
-          "footnote": ""
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            }
+          ]
         },
         {
-          "verse": 1,
-          "text": "",
-          "footnote": ""
+          id: 2,
+          title: ``,
+          "verses": []
         },
         {
-          "verse": 2,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 3,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 4,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 5,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 6,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 7,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 8,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 9,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 10,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 11,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 12,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 13,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 14,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 15,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 16,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 17,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 18,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 19,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 20,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 21,
-          "text": "",
-          "footnote": ""
+          id: 3,
+          title: ``,
+          "verses": []
         }
       ]
     },
     {
-      "id": "Lamentations",
-      "chapter": 2,
-      "verses": [
+      id: 2,
+      "lectures": [
         {
-          "verse": 0,
-          "text": "",
-          "footnote": ""
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            }
+          ]
         },
         {
-          "verse": 1,
-          "text": "",
-          "footnote": ""
+          id: 2,
+          title: ``,
+          "verses": []
         },
         {
-          "verse": 2,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 3,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 4,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 5,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 6,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 7,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 8,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 9,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 10,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 11,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 12,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 13,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 14,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 15,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 16,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 17,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 18,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 19,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 20,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 21,
-          "text": "",
-          "footnote": ""
+          id: 3,
+          title: ``,
+          "verses": []
         }
       ]
     },
     {
-      "id": "Lamentations",
-      "chapter": 3,
-      "verses": [
-        {
-          "verse": 0,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 1,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 2,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 3,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 4,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 5,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 6,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 7,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 8,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 9,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 10,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 11,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 12,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 13,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 14,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 15,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 16,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 17,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 18,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 19,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 20,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 21,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 22,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 23,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 24,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 25,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 26,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 27,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 28,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 29,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 30,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 31,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 32,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 33,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 34,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 35,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 36,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 37,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 38,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 39,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 40,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 41,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 42,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 43,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 44,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 45,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 46,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 47,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 48,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 49,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 50,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 51,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 52,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 53,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 54,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 55,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 56,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 57,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 58,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 59,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 60,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 61,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 62,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 63,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 64,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 65,
-          "text": "",
-          "footnote": ""
+      id: 3,
+      "lectures": [
+        {
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 22,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 23,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 24,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 25,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 26,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 27,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 28,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 29,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 30,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 31,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 32,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 33,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 34,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 35,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 36,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 37,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 38,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 39,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 40,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 41,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 42,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 43,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 44,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 45,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 46,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 47,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 48,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 49,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 50,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 51,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 52,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 53,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 54,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 55,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 56,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 57,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 58,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 59,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 60,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 61,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 62,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 63,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 64,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 65,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            }
+          ]
+        },
+        {
+          id: 2,
+          title: ``,
+          "verses": []
+        },
+        {
+          id: 3,
+          title: ``,
+          "verses": []
         }
       ]
     },
     {
-      "id": "Lamentations",
-      "chapter": 4,
-      "verses": [
+      id: 4,
+      "lectures": [
         {
-          "verse": 0,
-          "text": "",
-          "footnote": ""
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            }
+          ]
         },
         {
-          "verse": 1,
-          "text": "",
-          "footnote": ""
+          id: 2,
+          title: ``,
+          "verses": []
         },
         {
-          "verse": 2,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 3,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 4,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 5,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 6,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 7,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 8,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 9,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 10,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 11,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 12,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 13,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 14,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 15,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 16,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 17,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 18,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 19,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 20,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 21,
-          "text": "",
-          "footnote": ""
+          id: 3,
+          title: ``,
+          "verses": []
         }
       ]
     },
     {
-      "id": "Lamentations",
-      "chapter": 5,
-      "verses": [
+      id: 5,
+      "lectures": [
         {
-          "verse": 0,
-          "text": "",
-          "footnote": ""
+          id: 1,
+          title: ``,
+          "verses": [
+            {
+              id: 1,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 2,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 3,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 4,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 5,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 6,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 7,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 8,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 9,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 10,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 11,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 12,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 13,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 14,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 15,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 16,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 17,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 18,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 19,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 20,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            },
+            {
+              id: 21,
+              text: ``,
+              "footnote": [
+                ``,
+                ``
+              ]
+            }
+          ]
         },
         {
-          "verse": 1,
-          "text": "",
-          "footnote": ""
+          id: 2,
+          title: ``,
+          "verses": []
         },
         {
-          "verse": 2,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 3,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 4,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 5,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 6,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 7,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 8,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 9,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 10,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 11,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 12,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 13,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 14,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 15,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 16,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 17,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 18,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 19,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 20,
-          "text": "",
-          "footnote": ""
-        },
-        {
-          "verse": 21,
-          "text": "",
-          "footnote": ""
+          id: 3,
+          title: ``,
+          "verses": []
         }
       ]
-    },
-]
+    }
+  ]
+}

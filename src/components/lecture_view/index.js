@@ -16,7 +16,7 @@ export const init = (lecture) => {
         lecture.verses.forEach(item => {
             // console.log('LectureComponent.init::lecture', item)
             $(`#${lecturePrefix + lecture.id} .verses`).append(html
-                .replaceAll('{verse_number}', item.number)
+                .replaceAll('{verse_number}', item.id)
                 .replace('{verse_text}', item.text)
             );
         });

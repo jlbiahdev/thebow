@@ -8,7 +8,7 @@ export const cssFilePath = '/src/components/chapter_view/index.css';
 export const htmlFilePath = '/src/components/chapter_view/index.html';
 
 export const init = (chapter) => {
-    console.log(`ChapterComponent.init()`, chapter)
+    // console.log(`ChapterComponent.init()`, chapter)
 
     Commons.getHtmlFilePath(LectureButtonComponent.htmlFilePath).then(html => {
         $('head').append(`<link rel="stylesheet" href="${LectureButtonComponent.cssFilePath}">`);
