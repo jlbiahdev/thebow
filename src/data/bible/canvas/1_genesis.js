@@ -1,13118 +1,6815 @@
 export const data =   {
   key: "gen",
   name: "Genèse",
-  "chapters": [
+  chapters: [
     {
       id: 1,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `La création du monde`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 2,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 3,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Le jardin d'Éden, et le péché d'Adam`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 4,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Caïn et Abel`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Descendants de Caïn`,
+          verses: [
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 5,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Postérité d'Adam par Seth jusqu'à Noé`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 6,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Corruption du genre humain`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Le déluge`,
+          verses: [
+            {
+              id: 8,
+              text: ``,
+            },
+            {
+              id: 9,
+              text: ``,
+            },
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 7,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 8,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 9,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Noé et ses fils`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 10,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Postérité des trois fils de Noé`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 11,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `La tour de Babel`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Postérité de Sem`,
+          verses: [
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 12,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Abram. Son arrivée au pays de Canaan`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Séjour en Egypte`,
+          verses: [
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 13,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Abram de retour en Canaan. Séparation d'avec son neveu Lot`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Promesses de l'Éternel`,
+          verses: [
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 14,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Abram vainqueur de plusieurs rois`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
+          title: `Melchisédek`,
           title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          verses: [
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 15,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Le pays de Canaan promis à la postérité d'Abram`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 16,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Agar`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 7,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Naissance d'Ismaël`,
+          verses: [
+            {
+              id: 7,
+              text: ``,
+            },
+            {
+              id: 8,
+              text: ``,
+            },
+            {
+              id: 9,
+              text: ``,
+            },
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 17,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Le nom d'Abram changé en celui d'Abraham`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `La circoncision instituée`,
+          verses: [
+            {
+              id: 9,
+              text: ``,
+            },
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 18,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Intercession d'Avraham en faveur de Sodome`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 19,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Sodome et Gomorrhe`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 35,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 36,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 37,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 38,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Origine des Moabites et des Ammonites`,
+          verses: [
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            },
+            {
+              id: 35,
+              text: ``,
+            },
+            {
+              id: 36,
+              text: ``,
+            },
+            {
+              id: 37,
+              text: ``,
+            },
+            {
+              id: 38,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 20,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Séjour d'Abraham à Guérar`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 21,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Naissance d'Isaac`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 8,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 9,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
+          title: `Agar dans le désert`,
+          verses: [
+            {
+              id: 8,
+              text: ``,
+            },
+            {
+              id: 9,
+              text: ``,
+            },
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            }
+          ]
         },
         {
           id: 3,
-          title: ``,
-          "verses": []
+          title: `Alliance d'Abraham avec Abimélec`,
+          verses: [
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 22,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Abraham mis à l'épreuve par l'Éternel qui lui ordonne d'offrir en holocauste son fils Isaac`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 23,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Mort de Sara, et sépulture dans la caverne de Macpéla`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 24,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Rebecca demandée en mariage par Isaac`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 38,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 39,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 40,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 41,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 42,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 43,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 44,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 45,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 46,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 47,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 48,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 49,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 50,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 51,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 52,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 53,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 54,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 55,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 56,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 57,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 58,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 59,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 60,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 61,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 62,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 63,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 64,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 65,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 66,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 67,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 25,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Mort d'Abraham`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
+          title: `Postérité d'Ismaël`,
+          verses: [
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            }
+          ]
         },
         {
           id: 3,
-          title: ``,
-          "verses": []
+          title: `Les deux fils d'Isaac : Ésaü et Jacob`,
+          verses: [
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 26,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Isaac dans le pays des Philistins`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Alliance avec Abimélec`,
+          verses: [
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            },
+            {
+              id: 35,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 27,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Jacob béni par son père Isaac`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 38,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 39,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 40,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 41,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 42,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 43,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 44,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 45,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 46,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 28,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Fuite de Jacob en Mésopotamie`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 10,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 11,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 12,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 13,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 14,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Vision de l'échelle`,
+          verses: [
+            {
+              id: 10,
+              text: ``,
+            },
+            {
+              id: 11,
+              text: ``,
+            },
+            {
+              id: 12,
+              text: ``,
+            },
+            {
+              id: 13,
+              text: ``,
+            },
+            {
+              id: 14,
+              text: ``,
+            },
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 29,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Jacob chez Laban`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 15,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 16,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 20,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 21,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
+          title: `Léa et Rachel`,
+          verses: [
+            {
+              id: 15,
+              text: ``,
+            },
+            {
+              id: 16,
+              text: ``,
+            },
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            },
+            {
+              id: 21,
+              text: ``,
+            },
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            }
+          ]
         },
         {
           id: 3,
-          title: ``,
-          "verses": []
+          title: `Les enfants de Jacob`,
+          verses: [
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            },
+            {
+              id: 35,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 30,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 38,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 39,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 40,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 41,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 42,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 31,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Départ de Jacob pour Canaan`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 32,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 33,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 34,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 35,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 36,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 37,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 38,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 39,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 40,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 41,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 42,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 43,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 44,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 45,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 46,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 47,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 48,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 49,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 50,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 51,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 52,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 53,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 54,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Poursuite de Laban`,
+          verses: [
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            },
+            {
+              id: 33,
+              text: ``,
+            },
+            {
+              id: 34,
+              text: ``,
+            },
+            {
+              id: 35,
+              text: ``,
+            },
+            {
+              id: 36,
+              text: ``,
+            },
+            {
+              id: 37,
+              text: ``,
+            },
+            {
+              id: 38,
+              text: ``,
+            },
+            {
+              id: 39,
+              text: ``,
+            },
+            {
+              id: 40,
+              text: ``,
+            },
+            {
+              id: 41,
+              text: ``,
+            },
+            {
+              id: 42,
+              text: ``,
+            },
+            {
+              id: 43,
+              text: ``,
+            },
+            {
+              id: 44,
+              text: ``,
+            },
+            {
+              id: 45,
+              text: ``,
+            },
+            {
+              id: 46,
+              text: ``,
+            },
+            {
+              id: 47,
+              text: ``,
+            },
+            {
+              id: 48,
+              text: ``,
+            },
+            {
+              id: 49,
+              text: ``,
+            },
+            {
+              id: 50,
+              text: ``,
+            },
+            {
+              id: 51,
+              text: ``,
+            },
+            {
+              id: 52,
+              text: ``,
+            },
+            {
+              id: 53,
+              text: ``,
+            },
+            {
+              id: 54,
+              text: ``,
+            },
+            {
+              id: 55,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 32,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Envoi d'un message à Ésaü`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 26,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 29,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 30,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 31,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Lutte de Jacob`,
+          verses: [
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            },
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            },
+            {
+              id: 30,
+              text: ``,
+            },
+            {
+              id: 31,
+              text: ``,
+            },
+            {
+              id: 32,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 33,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Réconciliation avec Ésaü`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 17,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 18,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 19,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Arrivée en Canaan`,
+          verses: [
+            {
+              id: 17,
+              text: ``,
+            },
+            {
+              id: 18,
+              text: ``,
+            },
+            {
+              id: 19,
+              text: ``,
+            },
+            {
+              id: 20,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 34,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Dina et les Sichémites`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 31,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 35,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Jacob appellé Israël`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 27,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 28,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Retour de Jacob chez son père`,
+          verses: [
+            {
+              id: 27,
+              text: ``,
+            },
+            {
+              id: 28,
+              text: ``,
+            },
+            {
+              id: 29,
+              text: ``,
+            }
+          ]
         }
       ]
     },
     {
       id: 36,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Postérité d'Ésaü`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 38,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 39,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 40,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 41,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 42,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 43,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 37,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Joseph vendu par ses frères`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 36,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 38,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Juda et Tamar`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 30,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 39,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Joseph en Égypte`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 23,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 40,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 23,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 41,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 38,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 39,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 40,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 41,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 42,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 43,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 44,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 45,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 46,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 47,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 48,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 49,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 50,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 51,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 52,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 53,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 54,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 55,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 56,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 57,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 42,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Les frères de Joseph`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 34,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 35,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 36,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 37,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 38,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 43,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 34,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 44,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 34,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 45,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 28,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 46,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Arrivée et établissement de la famille de Jacob en Égypte`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 33,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 34,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 47,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 31,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 48,
-      "lectures": [
+      lectures: [
         {
           id: 1,
           title: ``,
-          "verses": [
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 22,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 49,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Bénédiction prophétique de Jacob à ses douze fils. Mort de Jacob`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 22,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 23,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 24,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 25,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 26,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 27,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 28,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 29,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 30,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 31,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 32,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
+            },
+            {
+              id: 33,
+              text: ``,
             }
           ]
-        },
-        {
-          id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
         }
       ]
     },
     {
       id: 50,
-      "lectures": [
+      lectures: [
         {
           id: 1,
-          title: ``,
-          "verses": [
+          title: `Ses funérailles dans le pays de Canaan`,
+          verses: [
             {
               id: 1,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 2,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 3,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 4,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 5,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 6,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 7,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 8,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 9,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 10,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 11,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 12,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 13,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 14,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 15,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 16,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 17,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 18,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 19,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 20,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             },
             {
               id: 21,
               text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 22,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 23,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 24,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
-            },
-            {
-              id: 25,
-              text: ``,
-              footnotes: [
-                ``,
-                ``
-              ]
             }
           ]
         },
         {
           id: 2,
-          title: ``,
-          "verses": []
-        },
-        {
-          id: 3,
-          title: ``,
-          "verses": []
+          title: `Mort de Joseph`,
+          verses: [
+            {
+              id: 22,
+              text: ``,
+            },
+            {
+              id: 23,
+              text: ``,
+            },
+            {
+              id: 24,
+              text: ``,
+            },
+            {
+              id: 25,
+              text: ``,
+            },
+            {
+              id: 26,
+              text: ``,
+            }
+          ]
         }
       ]
     }
